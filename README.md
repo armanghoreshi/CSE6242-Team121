@@ -1,6 +1,8 @@
 # CSE6242-Team121
 Team 121 - Data Visualization &amp; Analytics
 
+********************************************************************FRED DATA PROCESS************************************************************************************************
+Launch data_fetch_preprocess_fred.ipynb and run each cells to fetch demographic and economic data from FRED website and run the preprocessing of the data by adding county FIPS code.
 Fred data fetch and preprocess:
 ./data/fips.txt -- used to create state and county fips code,output file is countyname.csv
 
@@ -14,5 +16,6 @@ below are unprocessed files under ./data/ after fetch from FRED website:
 7 respop_by_county.csv - output of process file is modified_resident_population_per_county.csv
 8 gdp_by_county - output of process file is modified_gdp_per_county.csv
 9 totallist_by_county.csv - output of process file is modified_totallisting_per_county.csv
+********************************************************************FRED DATA PROCESS************************************************************************************************
 
 
