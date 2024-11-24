@@ -1,0 +1,860 @@
+Attribute,RegionName,RegionType,CountyName,StateName,State,StateCodeFIPS,county_fips,1/1/17,1/1/18,1/1/19,1/1/20,1/1/21,1/1/22
+"Estimate of Median Household Income for Los Angeles County, CA",Los Angeles County,county,Los Angeles,CA,CA,6,6037,64912,67986,72721,75624,77356,82455
+"Estimate of Median Household Income for San Diego County, CA",San Diego County,county,San Diego,CA,CA,6,6073,76048,78777,83576,87126,90756,98365
+"Estimate of Median Household Income for San Francisco County/City, CA",San Francisco County/City,county,San Francisco,CA,CA,6,6075,109601,110601,121795,121722,119776,135366
+"Estimate of Median Household Income for Orange County, CA",Orange County,county,Orange,CA,CA,6,6059,86031,89373,95761,98786,100210,106047
+"Estimate of Median Household Income for Miami-Dade County, FL",Miami-Dade County,county,Dade,FL,FL,12,12025,49758,52043,54991,59259,58905,66952
+"Estimate of Median Household Income for Dallas County, TX",Dallas County,county,Dallas,TX,TX,48,48113,56732,59838,61807,65770,63549,70871
+"Estimate of Median Household Income for Denver County, CO",Denver County,county,Denver,CO,CO,8,8031,64974,68069,75456,75355,81262,87619
+"Estimate of Median Household Income for King County, WA",King County,county,King,WA,WA,53,53033,89519,94822,102338,102620,110351,116044
+"Estimate of Median Household Income for Fairfax County, VA",Fairfax County,county,Fairfax,VA,VA,51,51059,117989,122035,127898,132509,133845,144632
+"Estimate of Median Household Income for Santa Clara County, CA",Santa Clara County,county,Santa Clara,CA,CA,6,6085,118468,125933,132444,139462,141161,150502
+"Estimate of Median Household Income for Dane County, WI",Dane County,county,Dane,WI,WI,55,55025,72385,71789,77828,74829,77653,85189
+"Estimate of Median Household Income for Hillsborough County, FL",Hillsborough County,county,Hillsborough,FL,FL,12,12057,54741,58361,61133,65272,65818,74091
+"Estimate of Median Household Income for Sacramento County, CA",Sacramento County,county,Sacramento,CA,CA,6,6067,62959,69475,71891,72953,79611,83985
+"Estimate of Median Household Income for Harris County, TX",Harris County,county,Harris,TX,TX,48,48201,58664,60241,61638,61906,63539,68748
+"Estimate of Median Household Income for Cook County, IL",Cook County,county,Cook,IL,IL,17,17031,61401,63347,69375,71611,72063,76614
+"Estimate of Median Household Income for Maricopa County, AZ",Maricopa County,county,Maricopa,AZ,AZ,4,4013,62221,65234,68634,71799,76230,83668
+"Estimate of Median Household Income for Davidson County, TN",Davidson County,county,Davidson,TN,TN,47,47037,58264,60799,63846,64418,65463,72561
+"Estimate of Median Household Income for Montgomery County, MD",Montgomery County,county,Montgomery,MD,MD,24,24031,102944,107758,110012,115394,112352,118020
+"Estimate of Median Household Income for Duval County, FL",Duval County,county,Duval,FL,FL,12,12031,52105,55733,58339,55202,60121,70203
+"Estimate of Median Household Income for Wake County, NC",Wake County,county,Wake,NC,NC,37,37183,77641,80169,84377,88763,91558,97099
+"Estimate of Median Household Income for Mecklenburg County, NC",Mecklenburg County,county,Mecklenburg,NC,NC,37,37119,65750,64509,69455,72340,75138,80645
+"Estimate of Median Household Income for Philadelphia County/city, PA",Philadelphia County/city,county,Philadelphia,PA,PA,42,42101,40193,46149,47598,55102,52882,56385
+"Estimate of Median Household Income for Arlington County, VA",Arlington County,county,Arlington,VA,VA,51,51013,114705,120950,118986,125004,124474,131020
+"Estimate of Median Household Income for Travis County, TX",Travis County,county,Travis,TX,TX,48,48453,72785,76255,80690,82605,84519,95151
+"Estimate of Median Household Income for Austin County, TX",Austin County,county,Austin,TX,TX,48,48015,61111,59942,68311,60593,68150,68630
+"Estimate of Median Household Income for Clark County, NV",Clark County,county,Clark,NV,NV,32,32003,57217,57155,62131,62496,63735,70838
+"Estimate of Median Household Income for Palm Beach County, FL",Palm Beach County,county,Palm Beach,FL,FL,12,12099,60059,61735,66621,68200,70024,76713
+"Estimate of Median Household Income for Gwinnett County, GA",Gwinnett County,county,Gwinnett,GA,GA,13,13135,68957,72008,72225,73460,75021,83918
+"Estimate of Median Household Income for York County, SC",York County,county,York,SC,SC,45,45091,62620,64904,68468,72579,73466,83692
+"Estimate of Median Household Income for Boulder County, CO",Boulder County,county,Boulder,CO,CO,8,8013,80701,83591,88341,88289,90327,96584
+"Estimate of Median Household Income for Salt Lake County, UT",Salt Lake County,county,Salt Lake,UT,UT,49,49035,71396,73619,79941,79294,80676,91713
+"Estimate of Median Household Income for Franklin County, OH",Franklin County,county,Franklin,OH,OH,39,39049,59214,60383,64648,62643,66056,69762
+"Estimate of Median Household Income for Sarasota County, FL",Sarasota County,county,Sarasota,FL,FL,12,12115,58423,61652,66258,66138,71630,78309
+"Estimate of Median Household Income for Allegheny County, PA",Allegheny County,county,Allegheny,PA,PA,42,42003,58547,59881,64799,64236,68874,71973
+"Estimate of Median Household Income for Greenville County, SC",Greenville County,county,Greenville,SC,SC,45,45045,56311,61162,64399,62475,68487,71833
+"Estimate of Median Household Income for Alameda County, CA",Alameda County,county,Alameda,CA,CA,6,6001,95550,101744,107589,113518,108971,121190
+"Estimate of Median Household Income for Milwaukee County, WI",Milwaukee County,county,Milwaukee,WI,WI,55,55079,47795,49771,53505,52281,56417,58375
+"Estimate of Median Household Income for Snohomish County, WA",Snohomish County,county,Snohomish,WA,WA,53,53061,82405,87096,89119,93589,99650,101440
+"Estimate of Median Household Income for Loudoun County, VA",Loudoun County,county,Loudoun,VA,VA,51,51107,136191,140382,151806,155362,153716,167605
+"Estimate of Median Household Income for Fresno County, CA",Fresno County,county,Fresno,CA,CA,6,6019,51452,52318,56926,61401,63140,68693
+"Estimate of Median Household Income for Charleston County, SC",Charleston County,county,Charleston,SC,SC,45,45019,60144,62958,70980,72451,71755,79969
+"Estimate of Median Household Income for St. Louis County, MO",St. Louis County,county,St. Louis,MO,MO,29,29189,64926,66992,70161,68964,72507,79609
+"Estimate of Median Household Income for Santa Barbara County, CA",Santa Barbara County,county,Santa Barbara,CA,CA,6,6083,70651,75646,74530,86136,83185,89334
+"Estimate of Median Household Income for Bexar County, TX",Bexar County,county,Bexar,TX,TX,48,48029,54163,54210,58956,60477,63014,65839
+"Estimate of Median Household Income for Tulsa County, OK",Tulsa County,county,Tulsa,OK,OK,40,40143,52579,55796,57668,58863,59232,63442
+"Estimate of Median Household Income for Knox County, TN",Knox County,county,Knox,TN,TN,47,47093,55299,55874,60316,57886,64817,70013
+"Estimate of Median Household Income for Spokane County, WA",Spokane County,county,Spokane,WA,WA,53,53063,53438,59408,59976,60827,65571,69079
+"Estimate of Median Household Income for Cuyahoga County, OH",Cuyahoga County,county,Cuyahoga,OH,OH,39,39035,46918,50006,52503,55128,55250,60808
+"Estimate of Median Household Income for Lancaster County, PA",Lancaster County,county,Lancaster,PA,PA,42,42071,63402,66270,67515,73006,75619,82434
+"Estimate of Median Household Income for New York County, NY",New York County,county,New York,NY,NY,36,36000,84133,84610,93007,87745,84371,95514
+"Estimate of Median Household Income for New York County, NY",New York County,county,New York,NY,NY,36,36061,84133,84610,93007,87745,84371,95514
+"Estimate of Median Household Income for Durham County, NC",Durham County,county,Durham,NC,NC,37,37063,60045,59329,65541,65619,71436,79524
+"Estimate of Median Household Income for Utah County, UT",Utah County,county,Utah,UT,UT,49,49000,70461,75296,79505,81804,86597,95085
+"Estimate of Median Household Income for Utah County, UT",Utah County,county,Utah,UT,UT,49,49049,70461,75296,79505,81804,86597,95085
+"Estimate of Median Household Income for Denton County, TX",Denton County,county,Denton,TX,TX,48,48121,86462,88384,90910,90880,98027,102711
+"Estimate of Median Household Income for El Paso County, TX",El Paso County,county,El Paso,TX,TX,48,48141,44120,43948,48629,48522,50983,53441
+"Estimate of Median Household Income for Howard County, MD",Howard County,county,Howard,MD,MD,24,24027,111576,116719,121329,124042,131412,133068
+"Estimate of Median Household Income for Shelby County, TN",Shelby County,county,Shelby,TN,TN,47,47157,49563,47924,52659,50870,54931,61452
+"Estimate of Median Household Income for San Bernardino County, CA",San Bernardino County,county,San Bernardino,CA,CA,6,6071,60270,63310,67398,65984,74218,78779
+"Estimate of Median Household Income for DeKalb County, GA",DeKalb County,county,DeKalb,GA,GA,13,13089,61496,63477,63606,69545,70756,76736
+"Estimate of Median Household Income for Riverside County, CA",Riverside County,county,Riverside,CA,CA,6,6065,63776,66793,72905,76409,78690,86350
+"Estimate of Median Household Income for Orange County, FL",Orange County,county,Orange,FL,FL,12,12095,54021,58037,63133,69074,64579,72129
+"Estimate of Median Household Income for Collier County, FL",Collier County,county,Collier,FL,FL,12,12021,66709,70649,76415,81895,75799,81821
+"Estimate of Median Household Income for Pasco County, FL",Pasco County,county,Pasco,FL,FL,12,12101,51247,53788,55745,52332,59555,65933
+"Estimate of Median Household Income for St. Johns County, FL",St. Johns County,county,St. Johns,FL,FL,12,12109,77022,81925,90839,94343,94662,103757
+"Estimate of Median Household Income for Middlesex County, MA",Middlesex County,county,Middlesex,MA,MA,25,25017,97851,100374,106543,111158,112345,118494
+"Estimate of Median Household Income for Waukesha County, WI",Waukesha County,county,Waukesha,WI,WI,55,55133,82627,87333,91070,92359,94506,99525
+"Estimate of Median Household Income for Fulton County, GA",Fulton County,county,Fulton,GA,GA,13,13121,64901,70808,79235,71504,82820,89798
+"Estimate of Median Household Income for Bergen County, NJ",Bergen County,county,Bergen,NJ,NJ,34,34003,93805,100181,107971,107114,104777,113885
+"Estimate of Median Household Income for Merced County, CA",Merced County,county,Merced,CA,CA,6,6047,48036,56169,59733,58998,54703,65253
+"Estimate of Median Household Income for Westchester County, NY",Westchester County,county,Westchester,NY,NY,36,36119,90483,94521,101741,103340,109131,108037
+"Estimate of Median Household Income for Broward County, FL",Broward County,county,Broward,FL,FL,12,12011,56702,57200,61429,63901,65536,70834
+"Estimate of Median Household Income for Oakland County, MI",Oakland County,county,Oakland,MI,MI,26,26125,77558,80319,81257,82849,86597,90801
+"Estimate of Median Household Income for Fairfield County, CT",Fairfield County,county,Fairfield,CT,CT,9,9001,91170,91183,96966,98828,100703,100703
+"Estimate of Median Household Income for Multnomah County, OR",Multnomah County,county,Multnomah,OR,OR,41,41051,63587,70756,72469,74707,77851,79432
+"Estimate of Median Household Income for Erie County, NY",Erie County,county,Erie,NY,NY,36,36029,55581,56375,60620,59584,63014,69888
+"Estimate of Median Household Income for New Hanover County, NC",New Hanover County,county,New Hanover,NC,NC,37,37129,53692,53419,57252,65615,66212,70995
+"Estimate of Median Household Income for Jefferson County, AL",Jefferson County,county,Jefferson,AL,AL,1,1073,50731,55013,54127,57802,55210,61996
+"Estimate of Median Household Income for Wayne County, MI",Wayne County,county,Wayne,MI,MI,26,26163,45182,46440,50753,51777,52644,55928
+"Estimate of Median Household Income for Ada County, ID",Ada County,county,Ada,ID,ID,16,16001,61469,66827,72295,73324,79345,87748
+"Estimate of Median Household Income for Hamilton County, TN",Hamilton County,county,Hamilton,TN,TN,47,47065,52096,57196,57802,61478,65689,75127
+"Estimate of Median Household Income for Marion County, FL",Marion County,county,Marion,FL,FL,12,12083,43772,44517,49079,48553,54555,54517
+"Estimate of Median Household Income for Baltimore County, MD",Baltimore County,county,Baltimore,MD,MD,24,24005,73309,75836,76972,79974,80159,86198
+"Estimate of Median Household Income for Jefferson County, KY",Jefferson County,county,Jefferson,KY,KY,21,21111,54977,55860,59025,62067,60636,64719
+"Estimate of Median Household Income for Cobb County, GA",Cobb County,county,Cobb,GA,GA,13,13067,75485,78603,79622,81517,87532,96798
+"Estimate of Median Household Income for San Mateo County, CA",San Mateo County,county,San Mateo,CA,CA,6,6081,115908,122930,135234,132369,131151,143795
+"Estimate of Median Household Income for Pinellas County, FL",Pinellas County,county,Pinellas,FL,FL,12,12103,51488,52226,56708,61532,61851,66427
+"Estimate of Median Household Income for Prince William County, VA",Prince William County,county,Prince William,VA,VA,51,51153,100431,106200,106208,111117,116354,119051
+"Estimate of Median Household Income for Douglas County, NE",Douglas County,county,Douglas,NE,NE,31,31055,61706,64580,67264,65788,69475,74424
+"Estimate of Median Household Income for Guilford County, NC",Guilford County,county,Guilford,NC,NC,37,37081,52284,52166,55820,55577,60915,63822
+"Estimate of Median Household Income for Contra Costa County, CA",Contra Costa County,county,Contra Costa,CA,CA,6,6013,95062,101463,106555,106484,110595,119667
+"Estimate of Median Household Income for Canadian County, OK",Canadian County,county,Canadian,OK,OK,40,40017,73878,70942,75111,75452,75806,81761
+"Estimate of Median Household Income for Langlade County, WI",Langlade County,county,Langlade,WI,WI,55,55067,46910,51334,49597,55259,57229,57745
+"Estimate of Median Household Income for Collin County, TX",Collin County,county,Collin,TX,TX,48,48085,95394,96936,96847,101560,102119,113943
+"Estimate of Median Household Income for Williamson County, TX",Williamson County,county,Williamson,TX,TX,48,48491,82131,87817,92661,91507,96653,101891
+"Estimate of Median Household Income for Marin County, CA",Marin County,county,Marin,CA,CA,6,6041,112735,122933,112069,127601,118472,135960
+"Estimate of Median Household Income for Essex County, MA",Essex County,county,Essex,MA,MA,25,25009,75309,76373,83253,88269,87145,92118
+"Estimate of Median Household Income for St. Charles County, MO",St. Charles County,county,St. Charles,MO,MO,29,29183,81827,82048,89236,90567,92029,98925
+"Estimate of Median Household Income for Pima County, AZ",Pima County,county,Pima,AZ,AZ,4,4019,51392,53395,56150,56551,60604,64007
+"Estimate of Median Household Income for Washoe County, NV",Washoe County,county,Washoe,NV,NV,32,32031,61506,63636,71733,75232,76123,80245
+"Estimate of Median Household Income for Madison County, AL",Madison County,county,Madison,AL,AL,1,1089,62750,63755,68609,67810,78386,80426
+"Estimate of Median Household Income for Bronx County, NY",Bronx County,county,Bronx,NY,NY,36,36005,37377,38566,41470,44906,43143,45864
+"Estimate of Median Household Income for Sonoma County, CA",Sonoma County,county,Sonoma,CA,CA,6,6097,79511,81002,87084,87366,92999,96312
+"Estimate of Median Household Income for Lee County, FL",Lee County,county,Lee,FL,FL,12,12071,54198,56343,62364,66140,66426,71607
+"Estimate of Median Household Income for Imperial County, CA",Imperial County,county,Imperial,CA,CA,6,6025,43413,46633,48102,47599,50970,55523
+"Estimate of Median Household Income for Albemarle County, VA",Albemarle County,county,Albemarle,VA,VA,51,51003,77591,80392,86332,79708,91849,94727
+"Estimate of Median Household Income for Worcester County, MA",Worcester County,county,Worcester,MA,MA,25,25027,70222,71767,77795,77931,84583,86078
+"Estimate of Median Household Income for Nassau County, NY",Nassau County,county,Nassau,NY,NY,36,36059,107465,115301,117767,122730,125118,135528
+"Estimate of Median Household Income for Stanislaus County, CA",Stanislaus County,county,Stanislaus,CA,CA,6,6099,58925,59616,62761,64501,73151,75249
+"Estimate of Median Household Income for Honolulu County/city, HI",Honolulu County/city,county,Honolulu,HI,HI,15,15003,80947,83695,86946,89584,90176,96304
+"Estimate of Median Household Income for Tarrant County, TX",Tarrant County,county,Tarrant,TX,TX,48,48439,65021,66059,70130,72064,71399,76285
+"Estimate of Median Household Income for Cape Girardeau County, MO",Cape Girardeau County,county,Cape Girardeau,MO,MO,29,29031,51955,51962,57618,57763,60997,64118
+"Estimate of Median Household Income for Onondaga County, NY",Onondaga County,county,Onondaga,NY,NY,36,36067,57641,59786,61597,63963,65548,70939
+"Estimate of Median Household Income for Oklahoma County, OK",Oklahoma County,county,Oklahoma,OK,OK,40,40000,51389,52346,56272,55332,57890,61580
+"Estimate of Median Household Income for Oklahoma County, OK",Oklahoma County,county,Oklahoma,OK,OK,40,40109,51389,52346,56272,55332,57890,61580
+"Estimate of Median Household Income for Forsyth County, GA",Forsyth County,county,Forsyth,GA,GA,13,13117,103083,105921,113332,116690,120919,130909
+"Estimate of Median Household Income for Brevard County, FL",Brevard County,county,Brevard,FL,FL,12,12009,52596,57612,57582,65871,65280,74899
+"Estimate of Median Household Income for Whatcom County, WA",Whatcom County,county,Whatcom,WA,WA,53,53073,61026,62262,68656,70463,71739,78796
+"Estimate of Median Household Income for Clark County, WA",Clark County,county,Clark,WA,WA,53,53011,74243,73971,80407,76929,83790,91149
+"Estimate of Median Household Income for Boise County, ID",Boise County,county,Boise,ID,ID,16,16015,56067,56837,64443,55583,71545,74121
+"Estimate of Median Household Income for Kern County, CA",Kern County,county,Kern,CA,CA,6,6029,49904,51586,53245,58583,57926,65981
+"Estimate of Median Household Income for Leon County, FL",Leon County,county,Leon,FL,FL,12,12073,51716,51046,55081,61403,57246,61560
+"Estimate of Median Household Income for Jackson County, MO",Jackson County,county,Jackson,MO,MO,29,29095,52585,55864,57907,56398,63282,62509
+"Estimate of Median Household Income for San Luis Obispo County, CA",San Luis Obispo County,county,San Luis Obispo,CA,CA,6,6079,70634,70626,76599,79455,79688,88578
+"Estimate of Median Household Income for Yakima County, WA",Yakima County,county,Yakima,WA,WA,53,53077,47573,51377,55674,56353,60058,63058
+"Estimate of Median Household Income for Anne Arundel County, MD",Anne Arundel County,county,Anne Arundel,MD,MD,24,24003,96133,97051,100916,105979,107281,112525
+"Estimate of Median Household Income for Columbia County, FL",Columbia County,county,Columbia,FL,FL,12,12023,42097,46195,47087,46670,52035,54060
+"Estimate of Median Household Income for Dare County, NC",Dare County,county,Dare,NC,NC,37,37055,57316,64768,63033,72962,68682,82052
+"Estimate of Median Household Income for Pierce County, WA",Pierce County,county,Pierce,WA,WA,53,53053,69027,75022,78779,80236,85492,92793
+"Estimate of Median Household Income for Fort Bend County, TX",Fort Bend County,county,Fort Bend,TX,TX,48,48157,91661,92310,101361,97210,98070,105583
+"Estimate of Median Household Income for Brown County, WI",Brown County,county,Brown,WI,WI,55,55009,61240,62097,65494,64905,67232,72398
+"Estimate of Median Household Income for Kenton County, KY",Kenton County,county,Kenton,KY,KY,21,21117,59594,64644,68692,66015,70693,77284
+"Estimate of Median Household Income for Montgomery County, PA",Montgomery County,county,Montgomery,PA,PA,42,42091,87338,90155,92340,94094,102648,106743
+"Estimate of Median Household Income for Ventura County, CA",Ventura County,county,Ventura,CA,CA,6,6111,82436,84170,91446,90961,95819,101981
+"Estimate of Median Household Income for Monroe County, NY",Monroe County,county,Monroe,NY,NY,36,36055,57660,60240,62159,61358,66003,68169
+"Estimate of Median Household Income for Grand Traverse County, MI",Grand Traverse County,county,Grand Traverse,MI,MI,26,26055,59674,64591,65041,67290,66271,74746
+"Estimate of Median Household Income for Bernalillo County, NM",Bernalillo County,county,Bernalillo,NM,NM,35,35001,51091,51372,56148,56632,59723,65034
+"Estimate of Median Household Income for Henrico County, VA",Henrico County,county,Henrico,VA,VA,51,51087,67434,68581,68975,80105,78888,82187
+"Estimate of Median Household Income for Prince George's County, MD",Prince George's County,county,Prince George,MD,MD,24,24033,80858,82445,85357,85246,89689,93833
+"Estimate of Median Household Income for Queens County, NY",Queens County,county,Queens,NY,NY,36,36081,64046,68432,72975,78847,72807,80180
+"Estimate of Median Household Income for Hennepin County, MN",Hennepin County,county,Hennepin,MN,MN,27,27053,74568,76067,82323,81772,84220,89418
+"Estimate of Median Household Income for Buncombe County, NC",Buncombe County,county,Buncombe,NC,NC,37,37021,50271,53960,55448,66156,63838,67906
+"Estimate of Median Household Income for Monterey County, CA",Monterey County,county,Monterey,CA,CA,6,6053,70294,69665,76509,85031,81404,91450
+"Estimate of Median Household Income for Manatee County, FL",Manatee County,county,Manatee,FL,FL,12,12081,55189,59587,64151,63328,67929,72176
+"Estimate of Median Household Income for Linn County, IA",Linn County,county,Linn,IA,IA,19,19113,63754,64878,64783,69559,70464,74134
+"Estimate of Median Household Income for Brunswick County, NC",Brunswick County,county,Brunswick,NC,NC,37,37019,56227,60163,63712,64371,67286,73536
+"Estimate of Median Household Income for Adams County, CO",Adams County,county,Adams,CO,CO,8,8001,65977,70199,75341,73615,80831,89849
+"Estimate of Median Household Income for Larimer County, CO",Larimer County,county,Larimer,CO,CO,8,8069,69443,71306,75332,80344,78681,88338
+"Estimate of Median Household Income for Suffolk County, NY",Suffolk County,county,Suffolk,NY,NY,36,36103,94108,100075,105241,109084,112681,119253
+"Estimate of Median Household Income for Winnebago County, IL",Winnebago County,county,Winnebago,IL,IL,17,17201,53490,53795,59510,54971,57113,62557
+"Estimate of Median Household Income for Itasca County, MN",Itasca County,county,Itasca,MN,MN,27,27061,49934,53143,58660,59365,59138,66958
+"Estimate of Median Household Income for Lane County, OR",Lane County,county,Lane,OR,OR,41,41039,50711,53161,57212,58818,61509,64192
+"Estimate of Median Household Income for Richmond County, NC",Richmond County,county,Richmond,NC,NC,37,37153,36401,38514,40518,42335,42158,44383
+"Estimate of Median Household Income for Barnstable County, MA",Barnstable County,county,Barnstable,MA,MA,25,25001,70576,69001,82686,76287,82980,89774
+"Estimate of Median Household Income for Burlington County, NJ",Burlington County,county,Burlington,NJ,NJ,34,34005,86777,84470,88443,92471,94043,100188
+"Estimate of Median Household Income for Russell County, KY",Russell County,county,Russell,KY,KY,21,21207,33575,34648,44056,41088,40454,44425
+"Estimate of Median Household Income for Lake County, IL",Lake County,county,Lake,IL,IL,17,17097,86242,87336,92638,100325,95895,101621
+"Estimate of Median Household Income for Frederick County, MD",Frederick County,county,Frederick,MD,MD,24,24021,91727,95196,102951,99254,104253,116796
+"Estimate of Median Household Income for Richmond County, GA",Richmond County,county,Richmond,GA,GA,13,13245,38297,40168,44810,43942,47816,50079
+"Estimate of Median Household Income for Van Zandt County, TX",Van Zandt County,county,Van Zandt,TX,TX,48,48467,50308,51152,55554,57891,59929,57706
+"Estimate of Median Household Income for Cabarrus County, NC",Cabarrus County,county,Cabarrus,NC,NC,37,37025,62167,69297,72071,79736,79148,79649
+"Estimate of Median Household Income for Clay County, FL",Clay County,county,Clay,FL,FL,12,12019,65375,62835,75776,72520,76711,84364
+"Estimate of Median Household Income for Wilson County, NC",Wilson County,county,Wilson,NC,NC,37,37195,44825,44015,42414,44089,48777,51535
+"Estimate of Median Household Income for Edgecombe County, NC",Edgecombe County,county,Edgecombe,NC,NC,37,37065,35130,38818,40784,45156,41157,48770
+"Estimate of Median Household Income for Cameron County, TX",Cameron County,county,Cameron,TX,TX,48,48061,36624,38106,40893,44440,46436,49583
+"Estimate of Median Household Income for Maui County, HI",Maui County,county,Maui,HI,HI,15,15009,76376,78503,77375,80763,75421,89794
+"Estimate of Median Household Income for Benton County, WA",Benton County,county,Benton,WA,WA,53,53005,64717,69212,72847,75882,77339,85144
+"Estimate of Median Household Income for Harford County, MD",Harford County,county,Harford,MD,MD,24,24025,80922,87959,91492,102537,95951,100334
+"Estimate of Median Household Income for Butler County, OH",Butler County,county,Butler,OH,OH,39,39017,64026,61053,68611,69049,72859,74841
+"Estimate of Median Household Income for Volusia County, FL",Volusia County,county,Volusia,FL,FL,12,12127,46911,50285,53554,55463,58246,64601
+"Estimate of Median Household Income for Hudspeth County, TX",Hudspeth County,county,Hudspeth,TX,TX,48,48229,39683,42671,39309,40666,38904,39582
+"Estimate of Median Household Income for Providence County, RI",Providence County,county,Providence,RI,RI,44,44007,55848,56141,62165,67752,66610,74190
+"Estimate of Median Household Income for Howard County, TX",Howard County,county,Howard,TX,TX,48,48227,46899,50423,61112,58445,55842,59598
+"Estimate of Median Household Income for Preble County, OH",Preble County,county,Preble,OH,OH,39,39135,52300,53904,62128,60856,56134,67605
+"Estimate of Median Household Income for Williamson County, TN",Williamson County,county,Williamson,TN,TN,47,47187,111427,115930,119637,118257,123474,133486
+"Estimate of Median Household Income for Lubbock County, TX",Lubbock County,county,Lubbock,TX,TX,48,48303,47460,50377,54733,56477,57270,59138
+"Estimate of Median Household Income for Johnson County, KS",Johnson County,county,Johnson,KS,KS,20,20091,83516,87087,91913,91799,93220,99174
+"Estimate of Median Household Income for Saginaw County, MI",Saginaw County,county,Saginaw,MI,MI,26,26145,45433,48805,48471,51893,50992,54064
+"Estimate of Median Household Income for McLennan County, TX",McLennan County,county,McLennan,TX,TX,48,48309,47306,48858,51078,55148,58524,63160
+"Estimate of Median Household Income for Eau Claire County, WI",Eau Claire County,county,Eau Claire,WI,WI,55,55035,55418,60111,64972,67409,63073,70564
+"Estimate of Median Household Income for Santa Cruz County, CA",Santa Cruz County,county,Santa Cruz,CA,CA,6,6087,76633,84213,85770,93015,90370,99256
+"Estimate of Median Household Income for Hartford County, CT",Hartford County,county,Hartford,CT,CT,9,9003,70433,73037,75336,73476,79958,79958
+"Estimate of Median Household Income for Sarpy County, NE",Sarpy County,county,Sarpy,NE,NE,31,31153,80842,79358,84016,83104,88913,98619
+"Estimate of Median Household Income for Winnebago County, WI",Winnebago County,county,Winnebago,WI,WI,55,55139,57529,57785,59643,64653,64640,69887
+"Estimate of Median Household Income for York County, PA",York County,county,York,PA,PA,42,42133,63493,65238,69101,71655,72949,79938
+"Estimate of Median Household Income for Missoula County, MT",Missoula County,county,Missoula,MT,MT,30,30063,53141,56207,57279,63409,65682,68210
+"Estimate of Median Household Income for McHenry County, IL",McHenry County,county,McHenry,IL,IL,17,17111,86450,86268,89379,89730,92522,99128
+"Estimate of Median Household Income for Henry County, GA",Henry County,county,Henry,GA,GA,13,13151,67493,72970,72927,69620,76577,82379
+"Estimate of Median Household Income for Genesee County, MI",Genesee County,county,Genesee,MI,MI,26,26049,46457,48370,50554,48721,52157,57443
+"Estimate of Median Household Income for Fayette County, TX",Fayette County,county,Fayette,TX,TX,48,48149,56320,55776,62195,63713,64711,70476
+"Estimate of Median Household Income for Bon Homme County, SD",Bon Homme County,county,Bon Homme,SD,SD,46,46009,48110,50278,52660,52890,54009,62963
+"Estimate of Median Household Income for Bucks County, PA",Bucks County,county,Bucks,PA,PA,42,42017,84784,88538,93587,92441,99755,105202
+"Estimate of Median Household Income for Okeechobee County, FL",Okeechobee County,county,Okeechobee,FL,FL,12,12093,42524,42258,45225,48028,47642,50176
+"Estimate of Median Household Income for Ashe County, NC",Ashe County,county,Ashe,NC,NC,37,37009,40611,41864,41542,44543,45551,54379
+"Estimate of Median Household Income for Warren County, IA",Warren County,county,Warren,IA,IA,19,19181,76146,78192,79557,82206,85704,90943
+"Estimate of Median Household Income for Jasper County, TX",Jasper County,county,Jasper,TX,TX,48,48241,43368,47551,47252,51153,50038,50763
+"Estimate of Median Household Income for Monroe County, PA",Monroe County,county,Monroe,PA,PA,42,42089,61296,63318,63012,71686,74989,79824
+"Estimate of Median Household Income for Marion County, GA",Marion County,county,Marion,GA,GA,13,13197,39408,39114,41190,46792,39717,47174
+"Estimate of Median Household Income for Clay County, SD",Clay County,county,Clay,SD,SD,46,46027,44943,46378,51039,49834,51388,55263
+"Estimate of Median Household Income for Marathon County, WI",Marathon County,county,Marathon,WI,WI,55,55073,59302,63442,66092,67074,74050,70955
+"Estimate of Median Household Income for Floyd County, KY",Floyd County,county,Floyd,KY,KY,21,21071,32841,33218,35828,35087,36253,37296
+"Estimate of Median Household Income for Napa County, CA",Napa County,county,Napa,CA,CA,6,6055,83881,85624,90230,92149,94127,98580
+"Estimate of Median Household Income for San Jacinto County, TX",San Jacinto County,county,San Jacinto,TX,TX,48,48407,44707,47028,42633,51575,52302,57855
+"Estimate of Median Household Income for Sevier County, TN",Sevier County,county,Sevier,TN,TN,47,47155,48482,47202,54476,54284,51771,59530
+"Estimate of Median Household Income for Burleigh County, ND",Burleigh County,county,Burleigh,ND,ND,38,38015,70075,72277,73565,72170,71980,83111
+"Estimate of Median Household Income for Mineral County, WV",Mineral County,county,Mineral,WV,WV,54,54057,45144,48578,49704,50300,54960,59669
+"Estimate of Median Household Income for Fairfield County, OH",Fairfield County,county,Fairfield,OH,OH,39,39045,67276,67654,71782,74987,80245,82447
+"Estimate of Median Household Income for Iowa County, WI",Iowa County,county,Iowa,WI,WI,55,55049,63476,68017,67390,75075,73294,76404
+"Estimate of Median Household Income for Spartanburg County, SC",Spartanburg County,county,Spartanburg,SC,SC,45,45083,51035,53567,55588,53485,60470,58535
+"Estimate of Median Household Income for Monroe County, FL",Monroe County,county,Monroe,FL,FL,12,12087,63009,67094,67528,68584,68975,79459
+"Estimate of Median Household Income for Mohave County, AZ",Mohave County,county,Mohave,AZ,AZ,4,4015,42210,45129,49712,46678,48169,54842
+"Estimate of Median Household Income for El Dorado County, CA",El Dorado County,county,El Dorado,CA,CA,6,6017,78464,81869,86202,87792,87689,104859
+"Estimate of Median Household Income for Champaign County, IL",Champaign County,county,Champaign,IL,IL,17,17019,51466,53251,53485,64387,58787,61205
+"Estimate of Median Household Income for Lucas County, OH",Lucas County,county,Lucas,OH,OH,39,39095,47562,47865,49924,51642,53379,57971
+"Estimate of Median Household Income for Amador County, CA",Amador County,county,Amador,CA,CA,6,6005,60588,58515,62640,68141,68159,74356
+"Estimate of Median Household Income for Marion County, IN",Marion County,county,Marion,IN,IN,18,18097,47642,48409,50707,56185,58737,62776
+"Estimate of Median Household Income for Caswell County, NC",Caswell County,county,Caswell,NC,NC,37,37033,44998,45517,51240,48070,50879,54215
+"Estimate of Median Household Income for Tishomingo County, MS",Tishomingo County,county,Tishomingo,MS,MS,28,28141,35031,41455,43341,48897,47839,51652
+"Estimate of Median Household Income for Muhlenberg County, KY",Muhlenberg County,county,Muhlenberg,KY,KY,21,21177,40338,43722,45049,45599,45883,48190
+"Estimate of Median Household Income for Fayette County, KY",Fayette County,county,Fayette,KY,KY,21,21067,56192,55358,58981,60215,61269,63667
+"Estimate of Median Household Income for Henry County, KY",Henry County,county,Henry,KY,KY,21,21103,50721,53405,51806,53170,56593,65068
+"Estimate of Median Household Income for Corson County, SD",Corson County,county,Corson,SD,SD,46,46031,30446,34024,32848,29860,34372,39329
+"Estimate of Median Household Income for Menominee County, WI",Menominee County,county,Menominee,WI,WI,55,55078,36936,40682,40300,41365,42976,51623
+"Estimate of Median Household Income for Chester County, TN",Chester County,county,Chester,TN,TN,47,47023,45261,47508,50769,42839,51615,57732
+"Estimate of Median Household Income for Stark County, OH",Stark County,county,Stark,OH,OH,39,39151,51214,52310,55623,57364,59205,64557
+"Estimate of Median Household Income for Chester County, PA",Chester County,county,Chester,PA,PA,42,42029,96803,99224,102233,107491,109616,117326
+"Estimate of Median Household Income for Broome County, NY",Broome County,county,Broome,NY,NY,36,36007,47910,50928,52179,52510,55729,60533
+"Estimate of Median Household Income for Itawamba County, MS",Itawamba County,county,Itawamba,MS,MS,28,28057,45718,45720,49214,48097,51454,56484
+"Estimate of Median Household Income for Bradford County, FL",Bradford County,county,Bradford,FL,FL,12,12007,44997,45075,47509,48260,54911,57664
+"Estimate of Median Household Income for Mackinac County, MI",Mackinac County,county,Mackinac,MI,MI,26,26097,43427,46645,44986,48480,53028,56942
+"Estimate of Median Household Income for Platte County, NE",Platte County,county,Platte,NE,NE,31,31141,57693,63656,62804,62776,70177,67132
+"Estimate of Median Household Income for Fulton County, NY",Fulton County,county,Fulton,NY,NY,36,36035,46984,51388,50061,55405,56169,61512
+"Estimate of Median Household Income for Butler County, KY",Butler County,county,Butler,KY,KY,21,21031,47146,43048,46305,44933,49288,50824
+"Estimate of Median Household Income for Polk County, FL",Polk County,county,Polk,FL,FL,12,12105,48328,51354,51817,54591,56344,61941
+"Estimate of Median Household Income for Breathitt County, KY",Breathitt County,county,Breathitt,KY,KY,21,21025,27372,31182,33407,33852,33005,36300
+"Estimate of Median Household Income for Manitowoc County, WI",Manitowoc County,county,Manitowoc,WI,WI,55,55071,55741,56466,61326,62734,59774,62910
+"Estimate of Median Household Income for New Haven County, CT",New Haven County,county,New Haven,CT,CT,9,9009,66764,67720,69687,72517,75094,75094
+"Estimate of Median Household Income for Union County, NJ",Union County,county,Union,NJ,NJ,34,34039,76830,80737,79953,83189,85926,96483
+"Estimate of Median Household Income for Deschutes County, OR",Deschutes County,county,Deschutes,OR,OR,41,41017,65506,67372,71880,66467,79648,84281
+"Estimate of Median Household Income for Horry County, SC",Horry County,county,Horry,SC,SC,45,45051,45979,49082,53648,55055,56342,61375
+"Estimate of Median Household Income for El Paso County, CO",El Paso County,county,El Paso,CO,CO,8,8041,65260,67923,72675,72459,79094,82248
+"Estimate of Median Household Income for Dimmit County, TX",Dimmit County,county,Dimmit,TX,TX,48,48127,35696,37177,40315,42788,41838,44312
+"Estimate of Median Household Income for Linn County, OR",Linn County,county,Linn,OR,OR,41,41043,51888,54292,61084,65516,64834,67265
+"Estimate of Median Household Income for Cleveland County, NC",Cleveland County,county,Cleveland,NC,NC,37,37045,39911,42728,46012,49041,49009,53170
+"Estimate of Median Household Income for Camden County, NC",Camden County,county,Camden,NC,NC,37,37029,64086,65955,69610,72135,79162,82620
+"Estimate of Median Household Income for Erie County, PA",Erie County,county,Erie,PA,PA,42,42049,50419,48453,51923,55181,56799,56489
+"Estimate of Median Household Income for Mahoning County, OH",Mahoning County,county,Mahoning,OH,OH,39,39099,43904,48010,48018,48937,50216,54774
+"Estimate of Median Household Income for Kauai County, HI",Kauai County,county,Kauai,HI,HI,15,15007,74881,73981,73029,80517,76719,81939
+"Estimate of Median Household Income for Benton County, AR",Benton County,county,Benton,AR,AR,5,5007,64728,68978,70775,78678,78974,86374
+"Estimate of Median Household Income for McCulloch County, TX",McCulloch County,county,McCulloch,TX,TX,48,48307,40157,42719,43262,47617,43525,45915
+"Estimate of Median Household Income for Cumberland County, PA",Cumberland County,county,Cumberland,PA,PA,42,42041,69222,71695,75269,69546,81975,81295
+"Estimate of Median Household Income for Roanoke County, VA",Roanoke County,county,Roanoke,VA,VA,51,51161,65171,68734,71742,71613,73438,77010
+"Estimate of Median Household Income for Arapahoe County, CO",Arapahoe County,county,Arapahoe,CO,CO,8,8005,75196,76665,82364,82381,84308,93525
+"Estimate of Median Household Income for Greenwood County, SC",Greenwood County,county,Greenwood,SC,SC,45,45047,42740,43879,43958,43711,52462,49867
+"Estimate of Median Household Income for Hamilton County, IN",Hamilton County,county,Hamilton,IN,IN,18,18057,95080,101740,107710,96359,108203,117068
+"Estimate of Median Household Income for Warren County, OH",Warren County,county,Warren,OH,OH,39,39165,85532,87391,91645,90600,97011,104523
+"Estimate of Median Household Income for Gem County, ID",Gem County,county,Gem,ID,ID,16,16045,47481,49857,53733,60526,58562,60771
+"Estimate of Median Household Income for Lyon County, IA",Lyon County,county,Lyon,IA,IA,19,19119,61749,69048,66139,67280,70654,74061
+"Estimate of Median Household Income for Coal County, OK",Coal County,county,Coal,OK,OK,40,40029,37874,39396,41273,41162,44733,44040
+"Estimate of Median Household Income for Rooks County, KS",Rooks County,county,Rooks,KS,KS,20,20163,44086,47365,49485,51376,51957,57029
+"Estimate of Median Household Income for Craig County, OK",Craig County,county,Craig,OK,OK,40,40035,39320,43074,42978,43804,48825,48922
+"Estimate of Median Household Income for Piute County, UT",Piute County,county,Piute,UT,UT,49,49031,41334,40387,42196,47206,50768,54495
+"Estimate of Median Household Income for Dallas County, AL",Dallas County,county,Dallas,AL,AL,1,1047,31329,34035,34034,37679,33159,35258
+"Estimate of Median Household Income for DeKalb County, AL",DeKalb County,county,DeKalb,AL,AL,1,1049,39906,39491,44277,47156,45062,50037
+"Estimate of Median Household Income for Thomas County, KS",Thomas County,county,Thomas,KS,KS,20,20193,53249,55345,58652,65158,61169,62916
+"Estimate of Median Household Income for Pawnee County, OK",Pawnee County,county,Pawnee,OK,OK,40,40117,46570,46949,47646,51960,52367,54690
+"Estimate of Median Household Income for Fremont County, IA",Fremont County,county,Fremont,IA,IA,19,19071,52616,54658,60498,62234,68622,69018
+"Estimate of Median Household Income for Osceola County, IA",Osceola County,county,Osceola,IA,IA,19,19143,56459,60627,60702,63695,62624,64993
+"Estimate of Median Household Income for Beckham County, OK",Beckham County,county,Beckham,OK,OK,40,40009,49784,47825,50512,47625,46744,53119
+"Estimate of Median Household Income for Stevens County, WA",Stevens County,county,Stevens,WA,WA,53,53065,52136,51183,55000,50958,60180,65748
+"Estimate of Median Household Income for Johnson County, WY",Johnson County,county,Johnson,WY,WY,56,56019,55412,57676,57224,62671,57275,70067
+"Estimate of Median Household Income for Crawford County, IA",Crawford County,county,Crawford,IA,IA,19,19047,53806,54828,58077,56707,58874,67363
+"Estimate of Median Household Income for Chouteau County, MT",Chouteau County,county,Chouteau,MT,MT,30,30015,42598,44645,48017,50607,51113,51137
+"Estimate of Median Household Income for Le Flore County, OK",Le Flore County,county,Le Flore,OK,OK,40,40079,38576,38709,42378,40632,42198,47026
+"Estimate of Median Household Income for Bear Lake County, ID",Bear Lake County,county,Bear Lake,ID,ID,16,16007,51343,53780,54550,55689,60265,66006
+"Estimate of Median Household Income for Claiborne County, MS",Claiborne County,county,Claiborne,MS,MS,28,28021,28518,29631,31221,34551,33163,35591
+"Estimate of Median Household Income for Montgomery County, IA",Montgomery County,county,Montgomery,IA,IA,19,19137,51317,49966,52715,54767,53399,58895
+"Estimate of Median Household Income for Deer Lodge County, MT",Deer Lodge County,county,Deer Lodge,MT,MT,30,30023,44295,45641,41780,47362,45725,52848
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Pike County, AL",Pike County,county,Pike,AL,AL,1,1109,37800,33401,38074,36314,35664,40224
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Iron County, UT",Iron County,county,Iron,UT,UT,49,49021,52762,55138,63599,57331,67437,73083
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Allen County, KS",Allen County,county,Allen,KS,KS,20,20001,38551,40081,41862,41669,46506,45119
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Oregon County, MO",Oregon County,county,Oregon,MO,MO,29,29149,28308,29141,31613,31961,33247,41625
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Cayuga County, NY",Cayuga County,county,Cayuga,NY,NY,36,36011,52494,49303,54431,53360,59432,61105
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Benton County, TN",Benton County,county,Benton,TN,TN,47,47005,32360,36244,37515,38131,39987,45169
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Cabell County, WV",Cabell County,county,Cabell,WV,WV,54,54011,34589,36807,38925,39251,43394,46190
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Elmore County, ID",Elmore County,county,Elmore,ID,ID,16,16039,49859,52798,53241,55643,55243,68185
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Monroe County, IL",Monroe County,county,Monroe,IL,IL,17,17133,91964,94067,98065,104460,99031,112389
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Fulton County, KY",Fulton County,county,Fulton,KY,KY,21,21075,34200,35876,38287,41425,39470,45042
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Warrick County, IN",Warrick County,county,Warrick,IN,IN,18,18173,70606,69373,74690,75539,75183,75662
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Lincoln County, WY",Lincoln County,county,Lincoln,WY,WY,56,56023,58611,63003,68121,64932,68878,84325
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Laurens County, GA",Laurens County,county,Laurens,GA,GA,13,13175,40640,45974,45321,53682,51562,52781
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Ozaukee County, WI",Ozaukee County,county,Ozaukee,WI,WI,55,55089,90225,87024,96198,92332,98703,107163
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Crenshaw County, AL",Crenshaw County,county,Crenshaw,AL,AL,1,1041,34662,34833,39763,40682,34707,44111
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Johnston County, NC",Johnston County,county,Johnston,NC,NC,37,37101,62654,62785,67929,70806,74427,85150
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Lexington County, SC",Lexington County,county,Lexington,SC,SC,45,45063,57926,57764,59537,58724,63273,70061
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Alleghany County, VA",Alleghany County,county,Alleghany,VA,VA,51,51005,44586,41900,48681,44279,44695,48502
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for McCracken County, KY",McCracken County,county,McCracken,KY,KY,21,21145,52585,52921,52671,55972,64363,64207
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Alleghany County, VA",Alleghany County,county,Alleghany,VA,VA,51,51005,54724,51176,58001,60283,53699,56322
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Pottawatomie County, KS",Pottawatomie County,county,Pottawatomie,KS,KS,20,20149,59101,63036,68846,64560,69906,78813
+"Estimate of Median Household Income for Deaf Smith County, TX",Deaf Smith County,county,Deaf Smith,TX,TX,48,48117,42698,44230,46178,51412,50967,55565
+"Estimate of Median Household Income for Yolo County, CA",Yolo County,county,Yolo,CA,CA,6,6113,64900,67804,70951,80668,76247,82359
+"Estimate of Median Household Income for Whitley County, KY",Whitley County,county,Whitley,KY,KY,21,21235,33809,36863,38191,34559,37530,43604
+"Estimate of Median Household Income for Scott County, IA",Scott County,county,Scott,IA,IA,19,19163,59461,59865,65724,67038,66443,68576
+"Estimate of Median Household Income for Silver Bow County, MT",Silver Bow County,county,Silver Bow,MT,MT,30,30093,44762,47302,49249,54324,52495,58898
+"Estimate of Median Household Income for Lee County, AR",Lee County,county,Lee,AR,AR,5,5077,28875,28080,30421,32502,29714,35213
+"Estimate of Median Household Income for Orange County, NC",Orange County,county,Orange,NC,NC,37,37135,69422,71920,74314,82732,79814,87780
+"Estimate of Median Household Income for Newberry County, SC",Newberry County,county,Newberry,SC,SC,45,45071,42538,48029,50773,52202,57072,55050
+"Estimate of Median Household Income for Marion County, TX",Marion County,county,Marion,TX,TX,48,48315,36936,38011,37876,42024,43178,47720
+"Estimate of Median Household Income for Granville County, NC",Granville County,county,Granville,NC,NC,37,37077,53142,58956,54300,53112,62715,74120
+"Estimate of Median Household Income for Dallas County, MO",Dallas County,county,Dallas,MO,MO,29,29059,38685,38765,42389,43482,46189,49830
+"Estimate of Median Household Income for Monmouth County, NJ",Monmouth County,county,Monmouth,NJ,NJ,34,34025,97627,99223,102579,104219,107500,117699
+"Estimate of Median Household Income for Lamar County, TX",Lamar County,county,Lamar,TX,TX,48,48277,47212,45767,47061,44688,50787,62620
+"Estimate of Median Household Income for Towner County, ND",Towner County,county,Towner,ND,ND,38,38095,51382,51848,53024,57509,66452,70656
+"Estimate of Median Household Income for Fond du Lac County, WI",Fond du Lac County,county,Fond du Lac,WI,WI,55,55039,61591,59428,65905,69280,69428,71206
+"Estimate of Median Household Income for Hidalgo County, TX",Hidalgo County,county,Hidalgo,TX,TX,48,48215,36978,38785,41656,46653,44260,48825
+"Estimate of Median Household Income for Waller County, TX",Waller County,county,Waller,TX,TX,48,48473,55224,59807,61822,69460,65437,75223
+"Estimate of Median Household Income for Albany County, NY",Albany County,county,Albany,NY,NY,36,36001,65659,64536,69408,70629,74512,76997
+"Estimate of Median Household Income for Seminole County, FL",Seminole County,county,Seminole,FL,FL,12,12117,63865,67187,69954,71930,70470,80296
+"Estimate of Median Household Income for Chester County, SC",Chester County,county,Chester,SC,SC,45,45023,40850,42116,45400,45366,46500,53488
+"Estimate of Median Household Income for Hudson County, NJ",Hudson County,county,Hudson,NJ,NJ,34,34017,65673,73337,77738,77323,79159,82361
+"Estimate of Median Household Income for Newton County, GA",Newton County,county,Newton,GA,GA,13,13217,55632,56598,58222,62183,71366,72128
+"Estimate of Median Household Income for Teton County, WY",Teton County,county,Teton,WY,WY,56,56039,90145,99087,98837,92488,102709,127677
+"Estimate of Median Household Income for Hardin County, KY",Hardin County,county,Hardin,KY,KY,21,21093,52673,52278,57711,56557,61224,61920
+"Estimate of Median Household Income for Orangeburg County, SC",Orangeburg County,county,Orangeburg,SC,SC,45,45075,36358,37134,38736,41335,39832,42209
+"Estimate of Median Household Income for Monroe County, IN",Monroe County,county,Monroe,IN,IN,18,18105,49180,48883,53113,61808,53166,64299
+"Estimate of Median Household Income for Charles County, MD",Charles County,county,Charles,MD,MD,24,24017,94478,92616,102510,102681,103918,112932
+"Estimate of Median Household Income for Ocean County, NJ",Ocean County,county,Ocean,NJ,NJ,34,34029,70493,68483,75627,78181,75732,81152
+"Estimate of Median Household Income for Henderson County, TX",Henderson County,county,Henderson,TX,TX,48,48213,44500,43337,49896,52660,50348,62843
+"Estimate of Median Household Income for Fayette County, GA",Fayette County,county,Fayette,GA,GA,13,13113,87831,95021,94563,98623,92319,109358
+"Estimate of Median Household Income for Whitfield County, GA",Whitfield County,county,Whitfield,GA,GA,13,13313,42568,47074,53115,56249,56973,61680
+"Estimate of Median Household Income for Seneca County, NY",Seneca County,county,Seneca,NY,NY,36,36099,54563,54184,51064,56929,60985,65354
+"Estimate of Median Household Income for Chittenden County, VT",Chittenden County,county,Chittenden,VT,VT,50,50007,65851,74240,76483,80539,84290,86579
+"Estimate of Median Household Income for Yavapai County, AZ",Yavapai County,county,Yavapai,AZ,AZ,4,4025,49860,48758,54242,58860,57676,64187
+"Estimate of Median Household Income for Wise County, VA",Wise County,county,Wise,VA,VA,51,51195,37460,38045,42372,41723,41994,45220
+"Estimate of Median Household Income for Roberts County, TX",Roberts County,county,Roberts,TX,TX,48,48393,67688,67470,70705,69927,73224,70814
+"Estimate of Median Household Income for Yuma County, AZ",Yuma County,county,Yuma,AZ,AZ,4,4027,46013,44116,47024,54278,55991,54209
+"Estimate of Median Household Income for Douglas County, NV",Douglas County,county,Douglas,NV,NV,32,32005,66092,70495,76296,84317,74053,91960
+"Estimate of Median Household Income for Forsyth County, NC",Forsyth County,county,Forsyth,NC,NC,37,37067,50803,50112,53054,56158,60228,62992
+"Estimate of Median Household Income for Franklin County, ME",Franklin County,county,Franklin,ME,ME,23,23007,45280,49561,51136,49317,52295,52159
+"Estimate of Median Household Income for Randall County, TX",Randall County,county,Randall,TX,TX,48,48381,63077,69600,70694,71041,72082,77066
+"Estimate of Median Household Income for Butte County, CA",Butte County,county,Butte,CA,CA,6,6007,48634,50945,58394,54718,62982,63353
+"Estimate of Median Household Income for Brown County, OH",Brown County,county,Brown,OH,OH,39,39015,48207,55334,58441,58067,58990,64034
+"Estimate of Median Household Income for Martin County, NC",Martin County,county,Martin,NC,NC,37,37117,37225,43569,39413,42264,43261,44445
+"Estimate of Median Household Income for Powhatan County, VA",Powhatan County,county,Powhatan,VA,VA,51,51145,87756,88475,94293,98465,99854,105231
+"Estimate of Median Household Income for Richland County, SC",Richland County,county,Richland,SC,SC,45,45079,52187,52611,52905,56993,56940,61010
+"Estimate of Median Household Income for Kaufman County, TX",Kaufman County,county,Kaufman,TX,TX,48,48257,65942,67434,75009,76352,73660,92814
+"Estimate of Median Household Income for Burleson County, TX",Burleson County,county,Burleson,TX,TX,48,48051,47409,53626,61745,64836,57469,62095
+"Estimate of Median Household Income for Atascosa County, TX",Atascosa County,county,Atascosa,TX,TX,48,48013,48636,50594,57309,60594,57905,59817
+"Estimate of Median Household Income for Jefferson County, TX",Jefferson County,county,Jefferson,TX,TX,48,48245,47852,48121,55173,48808,55575,55065
+"Estimate of Median Household Income for Solano County, CA",Solano County,county,Solano,CA,CA,6,6095,75931,82808,85704,83678,87348,92711
+"Estimate of Median Household Income for Bath County, KY",Bath County,county,Bath,KY,KY,21,21011,40507,44183,42248,41778,43410,48260
+"Estimate of Median Household Income for Washington County, AR",Washington County,county,Washington,AR,AR,5,5143,50400,50893,52158,57712,64218,62100
+"Estimate of Median Household Income for Harrison County, TX",Harrison County,county,Harrison,TX,TX,48,48203,50584,50131,55171,55198,56645,64636
+"Estimate of Median Household Income for Baldwin County, AL",Baldwin County,county,Baldwin,AL,AL,1,1003,56607,57588,59871,71135,65658,71704
+"Estimate of Median Household Income for Pulaski County, AR",Pulaski County,county,Pulaski,AR,AR,5,5119,52361,49957,52684,56171,53597,57057
+"Estimate of Median Household Income for Placer County, CA",Placer County,county,Placer,CA,CA,6,6061,81366,89175,97688,100662,103588,106114
+"Estimate of Median Household Income for La Crosse County, WI",La Crosse County,county,La Crosse,WI,WI,55,55063,57145,60619,59758,63298,62302,70075
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Door County, WI",Door County,county,Door,WI,WI,55,55029,64105,66217,68869,65536,69367,79270
+"Estimate of Median Household Income for Collingsworth County, TX",Collingsworth County,county,Collingsworth,TX,TX,48,48087,39809,39536,40314,47885,45734,52093
+"Estimate of Median Household Income for Dauphin County, PA",Dauphin County,county,Dauphin,PA,PA,42,42043,61229,57979,60763,63265,66121,67813
+"Estimate of Median Household Income for Chatham County, GA",Chatham County,county,Chatham,GA,GA,13,13051,54667,54165,57122,56357,61527,64029
+"Estimate of Median Household Income for Macomb County, MI",Macomb County,county,Macomb,MI,MI,26,26099,60475,62191,65051,64870,67646,73927
+"Estimate of Median Household Income for Daviess County, KY",Daviess County,county,Daviess,KY,KY,21,21059,50359,51441,52620,54948,59304,65949
+"Estimate of Median Household Income for Luzerne County, PA",Luzerne County,county,Luzerne,PA,PA,42,42079,50982,53469,53439,52281,58645,59358
+"Estimate of Median Household Income for Randolph County, MO",Randolph County,county,Randolph,MO,MO,29,29175,47327,44975,48043,51924,48560,48762
+"Estimate of Median Household Income for St. Lawrence County, NY",St. Lawrence County,county,St. Lawrence,NY,NY,36,36089,49607,49356,51742,51526,55531,59451
+"Estimate of Median Household Income for Trumbull County, OH",Trumbull County,county,Trumbull,OH,OH,39,39155,46340,47424,47966,48929,51838,54406
+"Estimate of Median Household Income for Polk County, IA",Polk County,county,Polk,IA,IA,19,19153,66112,68479,67331,67821,73276,77369
+"Estimate of Median Household Income for Caroline County, MD",Caroline County,county,Caroline,MD,MD,24,24011,56338,56627,60143,60617,61945,65981
+"Estimate of Median Household Income for Nicholas County, WV",Nicholas County,county,Nicholas,WV,WV,54,54067,37358,38572,40023,42725,47186,46757
+"Estimate of Median Household Income for Shasta County, CA",Shasta County,county,Shasta,CA,CA,6,6089,51207,53908,61464,59108,60187,66312
+"Estimate of Median Household Income for Transylvania County, NC",Transylvania County,county,Transylvania,NC,NC,37,37175,47587,51398,55628,56880,61737,62173
+"Estimate of Median Household Income for Cherokee County, AL",Cherokee County,county,Cherokee,AL,AL,1,1019,44842,42132,45982,50388,46365,52613
+"Estimate of Median Household Income for Clarke County, GA",Clarke County,county,Clarke,GA,GA,13,13059,39901,42112,41036,46693,49145,49832
+"Estimate of Median Household Income for Washington County, MS",Washington County,county,Washington,MS,MS,28,28151,30865,33991,31018,35344,38040,39690
+"Estimate of Median Household Income for Mesa County, CO",Mesa County,county,Mesa,CO,CO,8,8077,52623,51132,60249,64141,63531,69578
+"Estimate of Median Household Income for Hancock County, MS",Hancock County,county,Hancock,MS,MS,28,28045,45535,49843,50401,55710,54207,59874
+"Estimate of Median Household Income for Gaines County, TX",Gaines County,county,Gaines,TX,TX,48,48165,52138,56321,67171,63528,58712,62465
+"Estimate of Median Household Income for Faulkner County, AR",Faulkner County,county,Faulkner,AR,AR,5,5045,51535,53882,58482,57367,57573,63429
+"Estimate of Median Household Income for Waldo County, ME",Waldo County,county,Waldo,ME,ME,23,23027,54547,49482,51073,56085,58262,63619
+"Estimate of Median Household Income for Essex County, NJ",Essex County,county,Essex,NJ,NJ,34,34013,60284,62875,64522,65528,66191,74747
+"Estimate of Median Household Income for Coweta County, GA",Coweta County,county,Coweta,GA,GA,13,13077,73296,70974,79232,84121,85182,87618
+"Estimate of Median Household Income for St. Lucie County, FL",St. Lucie County,county,St. Lucie,FL,FL,12,12111,49995,53377,57292,59023,62378,64038
+"Estimate of Median Household Income for Nassau County, FL",Nassau County,county,Nassau,FL,FL,12,12089,70590,66898,72818,75123,78069,90808
+"Estimate of Median Household Income for Orange County, NY",Orange County,county,Orange,NY,NY,36,36071,77606,75048,83188,78724,88494,88532
+"Estimate of Median Household Income for Weber County, UT",Weber County,county,Weber,UT,UT,49,49057,62937,68106,71835,72091,72348,83465
+"Estimate of Median Household Income for Outagamie County, WI",Outagamie County,county,Outagamie,WI,WI,55,55087,65945,65993,66994,70727,73882,78808
+"Estimate of Median Household Income for Kane County, IL",Kane County,county,Kane,IL,IL,17,17089,75739,79834,84311,83784,90941,93475
+"Estimate of Median Household Income for Escambia County, FL",Escambia County,county,Escambia,FL,FL,12,12033,48289,50644,52822,57089,54492,61634
+"Estimate of Median Household Income for Lancaster County, NE",Lancaster County,county,Lancaster,NE,NE,31,31109,59681,58618,61383,65819,65436,68358
+"Estimate of Median Household Income for James City County, VA",James City County,county,James City,VA,VA,51,51095,88149,86541,92773,86501,92270,103070
+"Estimate of Median Household Income for Midland County, TX",Midland County,county,Midland,TX,TX,48,48329,76307,80189,85811,92117,84837,81187
+"Estimate of Median Household Income for DeWitt County, TX",DeWitt County,county,DeWitt,TX,TX,48,48123,47657,49208,52544,53899,54279,55525
+"Estimate of Median Household Income for Perry County, PA",Perry County,county,Perry,PA,PA,42,42099,61225,62366,65401,68991,76010,67834
+"Estimate of Median Household Income for Navajo County, AZ",Navajo County,county,Navajo,AZ,AZ,4,4017,40883,40650,40676,46698,49057,49948
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Mariposa County, CA",Mariposa County,county,Mariposa,CA,CA,6,6043,48245,46514,46592,48826,54124,60389
+"Estimate of Median Household Income for Williamsburg County, SC",Williamsburg County,county,Williamsburg,SC,SC,45,45089,32421,32814,34409,38186,40235,39757
+"Estimate of Median Household Income for Terry County, TX",Terry County,county,Terry,TX,TX,48,48445,40899,41268,42953,47292,42225,46998
+"Estimate of Median Household Income for Switzerland County, IN",Switzerland County,county,Switzerland,IN,IN,18,18155,47478,47713,52482,55618,57362,63246
+"Estimate of Median Household Income for Autauga County, AL",Autauga County,county,Autauga,AL,AL,1,1001,58343,59338,58233,67565,66444,70148
+"Estimate of Median Household Income for Morris County, NJ",Morris County,county,Morris,NJ,NJ,34,34027,114269,112396,116328,114103,122525,131562
+"Estimate of Median Household Income for Bristol County, RI",Bristol County,county,Bristol,RI,RI,44,44001,72614,80231,87926,94591,94553,101158
+"Estimate of Median Household Income for Morgan County, UT",Morgan County,county,Morgan,UT,UT,49,49029,96201,98875,101943,103746,111472,119482
+"Estimate of Median Household Income for Berks County, PA",Berks County,county,Berks,PA,PA,42,42011,61022,62519,67418,70057,68693,72157
+"Estimate of Median Household Income for Natrona County, WY",Natrona County,county,Natrona,WY,WY,56,56025,61049,64714,66104,65901,63940,70142
+"Estimate of Median Household Income for Taylor County, TX",Taylor County,county,Taylor,TX,TX,48,48441,50338,48040,54465,52974,53820,61798
+"Estimate of Median Household Income for Peoria County, IL",Peoria County,county,Peoria,IL,IL,17,17143,54195,56478,57717,53506,56460,65421
+"Estimate of Median Household Income for Uvalde County, TX",Uvalde County,county,Uvalde,TX,TX,48,48463,39610,39725,44690,49275,48438,48427
+"Estimate of Median Household Income for Des Moines County, IA",Des Moines County,county,Des Moines,IA,IA,19,19057,50773,51805,53547,55153,53917,59688
+"Estimate of Median Household Income for Allegan County, MI",Allegan County,county,Allegan,MI,MI,26,26005,62421,62247,66568,63732,73873,75893
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Panola County, TX",Panola County,county,Panola,TX,TX,48,48365,46250,46331,51663,44032,47708,54140
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Hartley County, TX",Hartley County,county,Hartley,TX,TX,48,48205,76229,80585,81363,86618,78385,93631
+"Estimate of Median Household Income for Robertson County, KY",Robertson County,county,Robertson,KY,KY,21,21201,43227,45146,47017,49529,51177,53456
+"Estimate of Median Household Income for Douglas County, CO",Douglas County,county,Douglas,CO,CO,8,8035,112386,120670,123697,122290,129839,140768
+"Estimate of Median Household Income for Adams County, OH",Adams County,county,Adams,OH,OH,39,39001,41644,42154,43145,42342,47001,49068
+"Estimate of Median Household Income for Brown County, NE",Brown County,county,Brown,NE,NE,31,31017,46768,46191,48843,52962,52738,55394
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Jasper County, TX",Jasper County,county,Jasper,TX,TX,48,48241,38782,43112,41937,43978,44134,45933
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Island County, WA",Island County,county,Island,WA,WA,53,53029,69450,70566,75802,82733,81007,89388
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for New Hanover County, NC",New Hanover County,county,New Hanover,NC,NC,37,37129,50338,50346,54074,59248,63186,66752
+"Estimate of Median Household Income for Kitsap County, WA",Kitsap County,county,Kitsap,WA,WA,53,53035,72795,76530,79268,76814,86826,93794
+"Estimate of Median Household Income for Cass County, MO",Cass County,county,Cass,MO,MO,29,29037,65839,71374,73882,82068,79949,77805
+"Estimate of Median Household Income for Terrell County, TX",Terrell County,county,Terrell,TX,TX,48,48443,39033,41413,45677,42849,44343,47969
+"Estimate of Median Household Income for Clarke County, MS",Clarke County,county,Clarke,MS,MS,28,28023,38840,41495,42826,38314,43774,46524
+"Estimate of Median Household Income for Jones County, NC",Jones County,county,Jones,NC,NC,37,37103,41523,43302,46275,44972,47616,56079
+"Estimate of Median Household Income for Kent County, MI",Kent County,county,Kent,MI,MI,26,26081,61146,61675,66560,65012,71933,76923
+"Estimate of Median Household Income for Tolland County, CT",Tolland County,county,Tolland,CT,CT,9,9013,75571,89584,90181,87247,86430,86430
+"Estimate of Median Household Income for Buffalo County, WI",Buffalo County,county,Buffalo,WI,WI,55,55011,55297,59087,58407,56643,61382,63969
+"Estimate of Median Household Income for Alcorn County, MS",Alcorn County,county,Alcorn,MS,MS,28,28003,39528,40010,43496,46368,46712,49627
+"Estimate of Median Household Income for Carroll County, MD",Carroll County,county,Carroll,MD,MD,24,24013,92890,95956,101810,104817,102006,105096
+"Estimate of Median Household Income for Blount County, TN",Blount County,county,Blount,TN,TN,47,47009,51391,57939,59368,67576,62724,69713
+"Estimate of Median Household Income for Oconee County, GA",Oconee County,county,Oconee,GA,GA,13,13219,92216,99497,100878,104519,112581,114758
+"Estimate of Median Household Income for Tompkins County, NY",Tompkins County,county,Tompkins,NY,NY,36,36109,56539,57383,59176,65308,65402,72025
+"Estimate of Median Household Income for Yamhill County, OR",Yamhill County,county,Yamhill,OR,OR,41,41071,62759,61776,71815,68266,75303,77969
+"Estimate of Median Household Income for Indian River County, FL",Indian River County,county,Indian River,FL,FL,12,12061,51797,58228,61173,72934,61351,69462
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for DeWitt County, TX",DeWitt County,county,DeWitt,TX,TX,48,48123,42563,44241,46532,46088,48758,48609
+"Estimate of Median Household Income for Armstrong County, TX",Armstrong County,county,Armstrong,TX,TX,48,48011,55337,57210,64424,62256,64401,67548
+"Estimate of Median Household Income for Kershaw County, SC",Kershaw County,county,Kershaw,SC,SC,45,45055,50627,52270,56318,60397,54900,61015
+"Estimate of Median Household Income for Franklin County, IA",Franklin County,county,Franklin,IA,IA,19,19069,53157,59367,55847,59596,60269,63775
+"Estimate of Median Household Income for Ashland County, WI",Ashland County,county,Ashland,WI,WI,55,55003,43784,44627,47202,52115,54799,56848
+"Estimate of Median Household Income for Rains County, TX",Rains County,county,Rains,TX,TX,48,48379,43403,47572,65657,59195,57294,45419
+"Estimate of Median Household Income for Robeson County, NC",Robeson County,county,Robeson,NC,NC,37,37155,33714,35407,36366,39139,38613,39931
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Yancey County, NC",Yancey County,county,Yancey,NC,NC,37,37199,45232,48942,52806,54880,51065,59933
+"Estimate of Median Household Income for Lincoln County, NV",Lincoln County,county,Lincoln,NV,NV,32,32017,54844,55504,58782,60180,64304,63978
+"Estimate of Median Household Income for Hamilton County, NY",Hamilton County,county,Hamilton,NY,NY,36,36041,51520,59020,60148,56253,57427,62149
+"Estimate of Median Household Income for Door County, WI",Door County,county,Door,WI,WI,55,55029,59956,61221,64217,61319,64818,72296
+"Estimate of Median Household Income for Monongalia County, WV",Monongalia County,county,Monongalia,WV,WV,54,54061,50621,51070,55652,55836,56706,59094
+"Estimate of Median Household Income for St. Joseph County, IN",St. Joseph County,county,St. Joseph,IN,IN,18,18141,52188,54674,53881,60070,59325,61028
+"Estimate of Median Household Income for Yadkin County, NC",Yadkin County,county,Yadkin,NC,NC,37,37197,46885,49070,50929,53154,56547,61464
+"Estimate of Median Household Income for Mobile County, AL",Mobile County,county,Mobile,AL,AL,1,1097,45615,43598,49492,50871,49848,54315
+"Estimate of Median Household Income for DuPage County, IL",DuPage County,county,DuPage,IL,IL,17,17043,89536,93540,96354,92101,99536,102383
+"Estimate of Median Household Income for Humboldt County, CA",Humboldt County,county,Humboldt,CA,CA,6,6023,46123,49471,51134,56071,53924,57660
+"Estimate of Median Household Income for Hale County, TX",Hale County,county,Hale,TX,TX,48,48189,43570,42782,49187,46589,47373,49571
+"Estimate of Median Household Income for Anoka County, MN",Anoka County,county,Anoka,MN,MN,27,27003,79097,82284,83363,84779,88416,92249
+"Estimate of Median Household Income for Porter County, IN",Porter County,county,Porter,IN,IN,18,18127,67525,69298,74064,78732,80878,84352
+"Estimate of Median Household Income for Jefferson County, IL",Jefferson County,county,Jefferson,IL,IL,17,17081,50622,47425,50531,58114,53294,58623
+"Estimate of Median Household Income for Holmes County, MS",Holmes County,county,Holmes,MS,MS,28,28051,24783,26449,26348,30003,28236,31972
+"Estimate of Median Household Income for Johnston County, NC",Johnston County,county,Johnston,NC,NC,37,37101,58647,60296,62835,63882,69889,80612
+"Estimate of Median Household Income for Westmoreland County, PA",Westmoreland County,county,Westmoreland,PA,PA,42,42129,60308,58398,59407,59349,63184,71152
+"Estimate of Median Household Income for Chesterfield County, VA",Chesterfield County,county,Chesterfield,VA,VA,51,51041,80573,80734,81641,83598,86101,100149
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Brooks County, TX",Brooks County,county,Brooks,TX,TX,48,48047,24979,27148,27542,28186,29353,30956
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Vernon County, WI",Vernon County,county,Vernon,WI,WI,55,55123,47812,55105,59285,60849,63888,72569
+"Estimate of Median Household Income for Adams County, WA",Adams County,county,Adams,WA,WA,53,53001,48056,52012,53535,56421,57405,62410
+"Estimate of Median Household Income for Sutter County, CA",Sutter County,county,Sutter,CA,CA,6,6101,54102,57879,60910,65791,63246,66071
+"Estimate of Median Household Income for Fleming County, KY",Fleming County,county,Fleming,KY,KY,21,21069,41029,42571,43943,44691,50025,50012
+"Estimate of Median Household Income for Barron County, WI",Barron County,county,Barron,WI,WI,55,55005,50940,50344,54372,54963,60371,62344
+"Estimate of Median Household Income for Tyler County, TX",Tyler County,county,Tyler,TX,TX,48,48457,43394,44041,48254,48809,46955,50722
+"Estimate of Median Household Income for Andrew County, MO",Andrew County,county,Andrew,MO,MO,29,29003,60759,57459,62823,69387,63665,72630
+"Estimate of Median Household Income for Union County, SD",Union County,county,Union,SD,SD,46,46127,82100,80698,83910,82574,87314,85677
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Washington County, IN",Washington County,county,Washington,IN,IN,18,18175,42899,41480,46290,44912,51031,59860
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Runnels County, TX",Runnels County,county,Runnels,TX,TX,48,48399,37590,38590,43946,46007,42957,46953
+"Estimate of Median Household Income for Erath County, TX",Erath County,county,Erath,TX,TX,48,48143,48230,47087,53044,61453,51964,60093
+"Estimate of Median Household Income for Putnam County, TN",Putnam County,county,Putnam,TN,TN,47,47141,42437,45512,49083,47120,52138,54996
+"Estimate of Median Household Income for Osceola County, FL",Osceola County,county,Osceola,FL,FL,12,12097,49284,50473,52270,63018,60495,63782
+"Estimate of Median Household Income for Flagler County, FL",Flagler County,county,Flagler,FL,FL,12,12035,52713,58975,62831,67054,65783,73336
+"Estimate of Median Household Income for Alachua County, FL",Alachua County,county,Alachua,FL,FL,12,12001,45230,51026,49880,51995,56006,58783
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Alameda County, CA",Alameda County,county,Alameda,CA,CA,6,6001,97596,103137,109824,116522,111772,124341
+"Estimate of Median Household Income for Hughes County, SD",Hughes County,county,Hughes,SD,SD,46,46065,63049,70093,66952,70615,72724,79301
+"Estimate of Median Household Income for Galveston County, TX",Galveston County,county,Galveston,TX,TX,48,48167,69674,71959,73214,78465,77627,75947
+"Estimate of Median Household Income for McPherson County, SD",McPherson County,county,McPherson,SD,SD,46,46089,40867,39850,43243,44625,49970,52850
+"Estimate of Median Household Income for Surry County, NC",Surry County,county,Surry,NC,NC,37,37171,43023,46342,48637,47114,51820,49524
+"Estimate of Median Household Income for Vigo County, IN",Vigo County,county,Vigo,IN,IN,18,18167,42497,48335,48082,45897,48421,52286
+"Estimate of Median Household Income for Navarro County, TX",Navarro County,county,Navarro,TX,TX,48,48349,41944,46259,48649,50778,51015,50822
+"Estimate of Median Household Income for Madison County, TN",Madison County,county,Madison,TN,TN,47,47113,46424,46651,50401,47580,53954,57070
+"Estimate of Median Household Income for Lancaster County, SC",Lancaster County,county,Lancaster,SC,SC,45,45057,57667,58035,63842,63019,68993,70113
+"Estimate of Median Household Income for Gallatin County, MT",Gallatin County,county,Gallatin,MT,MT,30,30031,61446,67569,73731,70029,78910,83520
+"Estimate of Median Household Income for Monroe County, TN",Monroe County,county,Monroe,TN,TN,47,47123,43749,45566,50506,50945,50364,56047
+"Estimate of Median Household Income for Montague County, TX",Montague County,county,Montague,TX,TX,48,48337,47590,50542,53649,56012,54988,57076
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Cass County, TX",Cass County,county,Cass,TX,TX,48,48067,35897,40385,40106,46302,38206,50574
+"Estimate of Median Household Income for Florence County, WI",Florence County,county,Florence,WI,WI,55,55037,50284,53188,58270,50420,62243,64512
+"Estimate of Median Household Income for Cayuga County, NY",Cayuga County,county,Cayuga,NY,NY,36,36011,55460,52945,58055,59335,62839,64129
+"Estimate of Median Household Income for Chaffee County, CO",Chaffee County,county,Chaffee,CO,CO,8,8015,53545,56168,60331,64220,65987,75151
+"Estimate of Median Household Income for Madison County, NY",Madison County,county,Madison,NY,NY,36,36053,56477,59114,61713,64379,66419,69851
+"Estimate of Median Household Income for Wayne County, NC",Wayne County,county,Wayne,NC,NC,37,37191,44592,41572,45634,52906,49955,55635
+"Estimate of Median Household Income for Bosque County, TX",Bosque County,county,Bosque,TX,TX,48,48035,49139,48460,55179,58056,56041,61048
+"Estimate of Median Household Income for Tuolumne County, CA",Tuolumne County,county,Tuolumne,CA,CA,6,6109,58776,56500,64729,63336,61396,70108
+"Estimate of Median Household Income for Kent County, MD",Kent County,county,Kent,MD,MD,24,24029,57760,55514,65615,64437,66183,69695
+"Estimate of Median Household Income for Crittenden County, KY",Crittenden County,county,Crittenden,KY,KY,21,21055,41522,43624,44595,46844,46263,50452
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Hanson County, SD",Hanson County,county,Hanson,SD,SD,46,46061,67816,70323,83438,72483,86480,88603
+"Estimate of Median Household Income for Carroll County, MS",Carroll County,county,Carroll,MS,MS,28,28015,40798,42588,44885,46814,46012,49397
+"Estimate of Median Household Income for Madison County, MS",Madison County,county,Madison,MS,MS,28,28089,69820,75740,70824,67151,77665,80641
+"Estimate of Median Household Income for Saguache County, CO",Saguache County,county,Saguache,CO,CO,8,8109,36558,36869,37004,56012,43366,45048
+"Estimate of Median Household Income for Black Hawk County, IA",Black Hawk County,county,Black Hawk,IA,IA,19,19013,50426,52320,60010,56091,60716,62020
+"Estimate of Median Household Income for McDowell County, NC",McDowell County,county,McDowell,NC,NC,37,37111,42853,43972,46370,47579,50476,54042
+"Estimate of Median Household Income for Sherman County, TX",Sherman County,county,Sherman,TX,TX,48,48421,49349,57052,55473,66408,62557,73395
+"Estimate of Median Household Income for Bedford County, TN",Bedford County,county,Bedford,TN,TN,47,47003,50904,49860,50539,58593,55420,70185
+"Estimate of Median Household Income for Newport County, RI",Newport County,county,Newport,RI,RI,44,44005,77186,77760,80862,81218,85764,92795
+"Estimate of Median Household Income for Darlington County, SC",Darlington County,county,Darlington,SC,SC,45,45031,38886,37206,44007,42082,46291,50427
+"Estimate of Median Household Income for Breckinridge County, KY",Breckinridge County,county,Breckinridge,KY,KY,21,21027,43148,47284,46069,50292,50012,52400
+"Estimate of Median Household Income for Liberty County, GA",Liberty County,county,Liberty,GA,GA,13,13179,45655,47685,51410,49788,50696,59807
+"Estimate of Median Household Income for Dutchess County, NY",Dutchess County,county,Dutchess,NY,NY,36,36027,76955,79604,84564,79276,87370,90740
+"Estimate of Median Household Income for Trinity County, TX",Trinity County,county,Trinity,TX,TX,48,48455,34741,40486,43788,47685,46569,49629
+"Estimate of Median Household Income for Watauga County, NC",Watauga County,county,Watauga,NC,NC,37,37189,48417,48489,51630,54004,55183,57888
+"Estimate of Median Household Income for Hamilton County, OH",Hamilton County,county,Hamilton,OH,OH,39,39061,55178,57300,60251,63919,64087,67033
+"Estimate of Median Household Income for Delaware County, OH",Delaware County,county,Delaware,OH,OH,39,39041,107676,103536,110252,114423,118661,121528
+"Estimate of Median Household Income for Beaver County, PA",Beaver County,county,Beaver,PA,PA,42,42007,54739,54823,60323,56649,64593,67135
+"Estimate of Median Household Income for Graham County, NC",Graham County,county,Graham,NC,NC,37,37075,37748,39502,45813,42057,43647,50301
+"Estimate of Median Household Income for Lake County, CA",Lake County,county,Lake,CA,CA,6,6033,45797,45086,46897,52345,55801,51848
+"Estimate of Median Household Income for Hancock County, WV",Hancock County,county,Hancock,WV,WV,54,54029,44623,47299,51017,52305,52301,58077
+"Estimate of Median Household Income for New London County, CT",New London County,county,New London,CT,CT,9,9011,71721,67790,75226,77202,78552,78552
+"Estimate of Median Household Income for Pike County, GA",Pike County,county,Pike,GA,GA,13,13231,62250,66901,74905,64986,75668,80626
+"Estimate of Median Household Income for Berkshire County, MA",Berkshire County,county,Berkshire,MA,MA,25,25003,56063,58375,58805,65458,60945,71102
+"Estimate of Median Household Income for Hardin County, TN",Hardin County,county,Hardin,TN,TN,47,47071,39318,37690,44510,46776,50309,42573
+"Estimate of Median Household Income for Kootenai County, ID",Kootenai County,county,Kootenai,ID,ID,16,16055,56921,56188,62764,66959,68043,75583
+"Estimate of Median Household Income for Steuben County, NY",Steuben County,county,Steuben,NY,NY,36,36101,50807,54862,53167,54794,57584,60558
+"Estimate of Median Household Income for Lincoln County, OK",Lincoln County,county,Lincoln,OK,OK,40,40081,47011,48039,51012,56957,51525,54922
+"Estimate of Median Household Income for Llano County, TX",Llano County,county,Llano,TX,TX,48,48299,51078,54019,55617,60706,61037,59528
+"Estimate of Median Household Income for Lawrence County, TN",Lawrence County,county,Lawrence,TN,TN,47,47099,41505,43651,43448,47353,49794,55562
+"Estimate of Median Household Income for Flathead County, MT",Flathead County,county,Flathead,MT,MT,30,30029,57389,54382,61334,58959,65835,66395
+"Estimate of Median Household Income for Attala County, MS",Attala County,county,Attala,MS,MS,28,28007,35158,36761,36905,40985,40592,44404
+"Estimate of Median Household Income for Clayton County, GA",Clayton County,county,Clayton,GA,GA,13,13063,44757,46059,50737,49370,51422,57625
+"Estimate of Median Household Income for Smith County, TX",Smith County,county,Smith,TX,TX,48,48423,54044,56848,59538,60735,62903,67978
+"Estimate of Median Household Income for Halifax County, NC",Halifax County,county,Halifax,NC,NC,37,37083,34027,36760,38727,41098,38944,44804
+"Estimate of Median Household Income for Gloucester County, VA",Gloucester County,county,Gloucester,VA,VA,51,51073,63902,70938,71715,73893,75630,76960
+"Estimate of Median Household Income for Jim Hogg County, TX",Jim Hogg County,county,Jim Hogg,TX,TX,48,48247,32319,36176,38788,41620,37454,43782
+"Estimate of Median Household Income for Vernon County, WI",Vernon County,county,Vernon,WI,WI,55,55123,44444,51692,56272,56561,60041,67812
+"Estimate of Median Household Income for Adair County, MO",Adair County,county,Adair,MO,MO,29,29001,38784,40395,43044,49175,47619,46433
+"Estimate of Median Household Income for Sanders County, MT",Sanders County,county,Sanders,MT,MT,30,30089,40582,39861,45193,45805,50270,47976
+"Estimate of Median Household Income for Alexander County, NC",Alexander County,county,Alexander,NC,NC,37,37003,48577,49138,54960,53523,52989,67717
+"Estimate of Median Household Income for Dawson County, TX",Dawson County,county,Dawson,TX,TX,48,48115,42127,43726,48165,47233,43627,48801
+"Estimate of Median Household Income for Boundary County, ID",Boundary County,county,Boundary,ID,ID,16,16021,43835,47118,50709,52193,55285,62801
+"Estimate of Median Household Income for Carson County, TX",Carson County,county,Carson,TX,TX,48,48065,60668,64799,69760,66597,66548,71902
+"Estimate of Median Household Income for Scott County, TN",Scott County,county,Scott,TN,TN,47,47151,34828,35685,38750,39020,40788,44599
+"Estimate of Median Household Income for Oconto County, WI",Oconto County,county,Oconto,WI,WI,55,55083,57860,59983,66401,65981,68480,68127
+"Estimate of Median Household Income for Catawba County, NC",Catawba County,county,Catawba,NC,NC,37,37035,53348,53738,53688,52737,59841,63934
+"Estimate of Median Household Income for Calvert County, MD",Calvert County,county,Calvert,MD,MD,24,24009,100000,106270,111056,111665,117459,118110
+"Estimate of Median Household Income for Fayette County, WV",Fayette County,county,Fayette,WV,WV,54,54019,38063,37867,41430,41964,40478,48710
+"Estimate of Median Household Income for Neshoba County, MS",Neshoba County,county,Neshoba,MS,MS,28,28099,38728,36236,41795,49215,44008,50331
+"Estimate of Median Household Income for Winston County, MS",Winston County,county,Winston,MS,MS,28,28159,36305,39498,37596,44029,48427,50082
+"Estimate of Median Household Income for Kenedy County, TX",Kenedy County,county,Kenedy,TX,TX,48,48261,38031,42153,46132,45980,42379,43274
+"Estimate of Median Household Income for Grainger County, TN",Grainger County,county,Grainger,TN,TN,47,47057,43190,41829,44929,45056,46983,51951
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Warren County, NY",Warren County,county,Warren,NY,NY,36,36113,55274,53834,58619,61426,63830,64254
+"Estimate of Median Household Income for Henry County, TN",Henry County,county,Henry,TN,TN,47,47079,41756,43159,43159,41598,45980,51194
+"Estimate of Median Household Income for Grant County, WA",Grant County,county,Grant,WA,WA,53,53025,55807,53688,57152,54753,61815,63809
+"Estimate of Median Household Income for Moore County, NC",Moore County,county,Moore,NC,NC,37,37125,62781,59471,63942,69413,69373,84458
+"Estimate of Median Household Income for Laramie County, WY",Laramie County,county,Laramie,WY,WY,56,56021,61658,63839,69613,69450,63134,71956
+"Estimate of Median Household Income for Young County, TX",Young County,county,Young,TX,TX,48,48503,44909,49301,52643,54569,53715,58297
+"Estimate of Median Household Income for Beaufort County, NC",Beaufort County,county,Beaufort,NC,NC,37,37013,43497,46411,49410,50253,50312,54415
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Tillman County, OK",Tillman County,county,Tillman,OK,OK,40,40141,43847,45168,45925,47708,48739,49413
+"Estimate of Median Household Income for Rockwall County, TX",Rockwall County,county,Rockwall,TX,TX,48,48397,98442,102858,105763,106225,120696,124291
+"Estimate of Median Household Income for Warren County, NC",Warren County,county,Warren,NC,NC,37,37185,36831,38430,37027,42808,44794,47170
+"Estimate of Median Household Income for Knox County, KY",Knox County,county,Knox,KY,KY,21,21121,28586,30742,31634,31568,32646,36573
+"Estimate of Median Household Income for Parmer County, TX",Parmer County,county,Parmer,TX,TX,48,48369,48189,50539,50607,61989,56632,57786
+"Estimate of Median Household Income for Moore County, TX",Moore County,county,Moore,TX,TX,48,48341,51444,53785,55099,53341,61833,66583
+"Estimate of Median Household Income for Kendall County, IL",Kendall County,county,Kendall,IL,IL,17,17093,97039,93345,105586,97263,100483,102509
+"Estimate of Median Household Income for Van Buren County, TN",Van Buren County,county,Van Buren,TN,TN,47,47175,38478,38265,44451,45908,45565,50260
+"Estimate of Median Household Income for Oktibbeha County, MS",Oktibbeha County,county,Oktibbeha,MS,MS,28,28105,39387,39130,41631,44234,43226,47284
+"Estimate of Median Household Income for Floyd County, IA",Floyd County,county,Floyd,IA,IA,19,19067,51901,53811,55369,60790,59638,64553
+"Estimate of Median Household Income for Oconee County, SC",Oconee County,county,Oconee,SC,SC,45,45073,51087,50529,52240,58061,53432,61716
+"Estimate of Median Household Income for Mercer County, OH",Mercer County,county,Mercer,OH,OH,39,39107,60055,62782,67075,69588,67958,72077
+"Estimate of Median Household Income for Washington County, TN",Washington County,county,Washington,TN,TN,47,47179,43194,49242,51879,52088,56071,64270
+"Estimate of Median Household Income for Ingham County, MI",Ingham County,county,Ingham,MI,MI,26,26065,51186,52837,54704,62711,57733,60571
+"Estimate of Median Household Income for Trousdale County, TN",Trousdale County,county,Trousdale,TN,TN,47,47169,49711,49280,51982,54970,49014,58584
+"Estimate of Median Household Income for Charlotte County, FL",Charlotte County,county,Charlotte,FL,FL,12,12015,51583,52724,54756,58368,59547,65040
+"Estimate of Median Household Income for O'Brien County, IA",O'Brien County,county,O'Brien,IA,IA,19,141,60375,53147,60298,63559,62959,67470
+"Estimate of Median Household Income for Sequatchie County, TN",Sequatchie County,county,Sequatchie,TN,TN,47,47153,45100,49707,46876,51197,55099,56264
+"Estimate of Median Household Income for Bourbon County, KY",Bourbon County,county,Bourbon,KY,KY,21,21017,46281,48614,47046,52368,58304,56879
+"Estimate of Median Household Income for Dodge County, MN",Dodge County,county,Dodge,MN,MN,27,27039,70431,75955,86436,77340,84385,88994
+"Estimate of Median Household Income for Thurston County, WA",Thurston County,county,Thurston,WA,WA,53,53067,71370,72400,77890,79769,81544,88560
+"Estimate of Median Household Income for Humphreys County, TN",Humphreys County,county,Humphreys,TN,TN,47,47085,45866,48056,52121,57767,55298,58917
+"Estimate of Median Household Income for Archer County, TX",Archer County,county,Archer,TX,TX,48,48009,58311,61190,63731,69566,69286,72062
+"Estimate of Median Household Income for Alamance County, NC",Alamance County,county,Alamance,NC,NC,37,37001,47914,50480,57963,53220,58847,61034
+"Estimate of Median Household Income for Oxford County, ME",Oxford County,county,Oxford,ME,ME,23,23017,50367,44243,50344,47611,51872,58842
+"Estimate of Median Household Income for Mercer County, NJ",Mercer County,county,Mercer,NJ,NJ,34,34021,78161,79979,79475,87581,86499,94832
+"Estimate of Median Household Income for Liberty County, FL",Liberty County,county,Liberty,FL,FL,12,12077,41308,40814,44236,46734,48271,49514
+"Estimate of Median Household Income for Meigs County, TN",Meigs County,county,Meigs,TN,TN,47,47121,45695,50565,48334,49242,51337,54257
+"Estimate of Median Household Income for Litchfield County, CT",Litchfield County,county,Litchfield,CT,CT,9,9005,77968,76304,81015,79512,84689,84689
+"Estimate of Median Household Income for Stewart County, TN",Stewart County,county,Stewart,TN,TN,47,47161,48175,46565,52177,55022,56764,60242
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Yuba County, CA",Yuba County,county,Yuba,CA,CA,6,6115,50075,43273,53088,49976,56731,59516
+"Estimate of Median Household Income for Chatham County, NC",Chatham County,county,Chatham,NC,NC,37,37037,63373,73703,70258,74747,82764,84516
+"Estimate of Median Household Income for Cochran County, TX",Cochran County,county,Cochran,TX,TX,48,48079,40796,42873,43742,44584,42274,45766
+"Estimate of Median Household Income for Wayne County, TN",Wayne County,county,Wayne,TN,TN,47,47181,36612,38879,45091,42754,47563,48321
+"Estimate of Median Household Income for Washington County, UT",Washington County,county,Washington,UT,UT,49,49053,55518,57069,64388,71904,63639,75572
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Okeechobee County, FL",Okeechobee County,county,Okeechobee,FL,FL,12,12093,45487,46277,49977,54778,53210,54498
+"Estimate of Median Household Income for Panola County, MS",Panola County,county,Panola,MS,MS,28,28107,35927,39198,40655,41060,42287,40595
+"Estimate of Median Household Income for Culpeper County, VA",Culpeper County,county,Culpeper,VA,VA,51,51047,69318,72111,79739,80151,82220,94287
+"Estimate of Median Household Income for Burke County, ND",Burke County,county,Burke,ND,ND,38,38013,62629,63261,67545,73567,71492,75931
+"Estimate of Median Household Income for Coffee County, TN",Coffee County,county,Coffee,TN,TN,47,47031,48188,49494,54931,55177,55070,56519
+"Estimate of Median Household Income for Ottawa County, MI",Ottawa County,county,Ottawa,MI,MI,26,26139,68816,70420,69827,77465,79402,85968
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Cameron County, TX",Cameron County,county,Cameron,TX,TX,48,48061,38873,40096,43233,47278,49566,52701
+"Estimate of Median Household Income for Weld County, CO",Weld County,county,Weld,CO,CO,8,8123,68679,75629,78160,77937,84826,90770
+"Estimate of Median Household Income for Gilchrist County, FL",Gilchrist County,county,Gilchrist,FL,FL,12,12041,42880,42186,46171,52000,52168,58178
+"Estimate of Median Household Income for Morgan County, OH",Morgan County,county,Morgan,OH,OH,39,39115,41375,40557,46883,45698,46327,58803
+"Estimate of Median Household Income for Wilkinson County, MS",Wilkinson County,county,Wilkinson,MS,MS,28,28157,27962,29900,32612,35394,33777,36798
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Los Angeles County, CA",Los Angeles County,county,Los Angeles,CA,CA,6,6037,65572,68679,73365,76718,78048,83097
+"Estimate of Median Household Income for Loudon County, TN",Loudon County,county,Loudon,TN,TN,47,47105,57641,58186,65226,70292,72378,79683
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Monroe County, WI",Monroe County,county,Monroe,WI,WI,55,55081,52284,54714,56999,55913,59037,59985
+"Estimate of Median Household Income for Grundy County, TN",Grundy County,county,Grundy,TN,TN,47,47061,34454,36317,38447,41133,41266,44219
+"Estimate of Median Household Income for Houston County, TX",Houston County,county,Houston,TX,TX,48,48225,37723,39533,43601,45989,45603,49741
+"Estimate of Median Household Income for Kings County, NY",Kings County,county,Kings,NY,NY,36,36047,56548,60862,66501,70390,66943,73244
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Montgomery County, KY",Montgomery County,county,Montgomery,KY,KY,21,21173,40153,41813,48290,45574,46216,49981
+"Estimate of Median Household Income for Yates County, NY",Yates County,county,Yates,NY,NY,36,36123,49198,51089,60612,57057,63619,62637
+"Estimate of Median Household Income for Lee County, NC",Lee County,county,Lee,NC,NC,37,37105,53297,48984,53114,57025,56679,58244
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for St. Louis County, MN",St. Louis County,county,St. Louis,MN,MN,27,27137,50273,50948,58245,54004,61255,59735
+"Estimate of Median Household Income for Overton County, TN",Overton County,county,Overton,TN,TN,47,47133,37154,42149,43636,43167,45793,52108
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for San Joaquin County, CA",San Joaquin County,county,San Joaquin,CA,CA,6,6077,59547,61395,66073,67939,77211,81692
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Clay County, AR",Clay County,county,Clay,AR,AR,5,5021,32120,34347,36568,41430,37216,42933
+"Estimate of Median Household Income for Herkimer County, NY",Herkimer County,county,Herkimer,NY,NY,36,36043,46733,53168,55778,59893,59366,62197
+"Estimate of Median Household Income for Eureka County, NV",Eureka County,county,Eureka,NV,NV,32,32011,67976,70036,71541,68806,80084,80291
+"Estimate of Median Household Income for Wood County, WI",Wood County,county,Wood,WI,WI,55,55141,53346,55879,57325,54154,55946,64408
+"Estimate of Median Household Income for Madison County, IL",Madison County,county,Madison,IL,IL,17,17119,58077,60121,66591,63903,65886,67441
+"Estimate of Median Household Income for Wilson County, TN",Wilson County,county,Wilson,TN,TN,47,47189,70674,76507,80080,77822,82489,88462
+"Estimate of Median Household Income for McCreary County, KY",McCreary County,county,McCreary,KY,KY,21,21147,28024,30029,32701,31453,32938,35443
+"Estimate of Median Household Income for Scurry County, TX",Scurry County,county,Scurry,TX,TX,48,48415,51772,53059,56299,57158,49727,60387
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for La Salle County, TX",La Salle County,county,La Salle,TX,TX,48,48283,45791,44359,46855,52883,45662,44368
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Rains County, TX",Rains County,county,Rains,TX,TX,48,48379,47955,51267,70259,66899,64272,48906
+"Estimate of Median Household Income for Franklin County, MS",Franklin County,county,Franklin,MS,MS,28,28037,38370,39508,41420,41548,43579,47165
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Stanislaus County, CA",Stanislaus County,county,Stanislaus,CA,CA,6,6099,56702,56719,60278,62417,70938,72669
+"Estimate of Median Household Income for Saratoga County, NY",Saratoga County,county,Saratoga,NY,NY,36,36091,82732,83210,89071,83427,87154,93341
+"Estimate of Median Household Income for Boone County, MO",Boone County,county,Boone,MO,MO,29,29019,52179,55136,58029,62673,62805,63981
+"Estimate of Median Household Income for Rosebud County, MT",Rosebud County,county,Rosebud,MT,MT,30,30087,54998,57674,58139,54991,61331,64003
+"Estimate of Median Household Income for Newton County, TX",Newton County,county,Newton,TX,TX,48,48351,41736,43367,45890,45769,44030,47804
+"Estimate of Median Household Income for Maverick County, TX",Maverick County,county,Maverick,TX,TX,48,48323,33507,35594,40017,41324,41815,43407
+"Estimate of Median Household Income for Falls County, TX",Falls County,county,Falls,TX,TX,48,48145,35988,37428,41484,44590,46173,47534
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Tuolumne County, CA",Tuolumne County,county,Tuolumne,CA,CA,6,6109,53854,51386,59115,56256,54884,64312
+"Estimate of Median Household Income for Union County, OH",Union County,county,Union,OH,OH,39,39159,86609,84861,91597,92198,98167,104512
+"Estimate of Median Household Income for Macon County, NC",Macon County,county,Macon,NC,NC,37,37113,42456,46426,46279,51973,49406,53832
+"Estimate of Median Household Income for Pinal County, AZ",Pinal County,county,Pinal,AZ,AZ,4,4021,53114,58848,62067,66992,70835,76232
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Towner County, ND",Towner County,county,Towner,ND,ND,38,38095,45749,46536,46825,49274,58641,61798
+"Estimate of Median Household Income for Chautauqua County, NY",Chautauqua County,county,Chautauqua,NY,NY,36,36013,45840,45689,50143,50062,48102,55644
+"Estimate of Median Household Income for Clay County, TN",Clay County,county,Clay,TN,TN,47,47027,34035,34238,36694,37683,39770,43441
+"Estimate of Median Household Income for Sussex County, DE",Sussex County,county,Sussex,DE,DE,10,10005,61124,59821,64839,69829,70500,81188
+"Estimate of Median Household Income for Berkeley County, SC",Berkeley County,county,Berkeley,SC,SC,45,45015,57399,62204,68690,70371,74289,79259
+"Estimate of Median Household Income for Josephine County, OR",Josephine County,county,Josephine,OR,OR,41,41033,43492,46578,47533,47740,49833,54983
+"Estimate of Median Household Income for Crockett County, TN",Crockett County,county,Crockett,TN,TN,47,47033,40480,44431,45642,50046,50792,53598
+"Estimate of Median Household Income for Jackson County, TX",Jackson County,county,Jackson,TX,TX,48,48239,49350,54088,55800,56101,60666,61953
+"Estimate of Median Household Income for Carroll County, TN",Carroll County,county,Carroll,TN,TN,47,47017,41492,42025,43258,47390,45997,52680
+"Estimate of Median Household Income for Leslie County, KY",Leslie County,county,Leslie,KY,KY,21,21131,29317,31921,32202,39098,32682,36666
+"Estimate of Median Household Income for Fall River County, SD",Fall River County,county,Fall River,SD,SD,46,46047,45273,46782,49965,48927,52113,56976
+"Estimate of Median Household Income for Magoffin County, KY",Magoffin County,county,Magoffin,KY,KY,21,21153,28077,30950,32045,32389,34423,35669
+"Estimate of Median Household Income for Kankakee County, IL",Kankakee County,county,Kankakee,IL,IL,17,17091,57706,53884,60763,57413,63880,70494
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Norfolk County, MA",Norfolk County,county,Norfolk,MA,MA,25,25021,102215,102760,110489,109987,118108,120208
+"Estimate of Median Household Income for Hanson County, SD",Hanson County,county,Hanson,SD,SD,46,46061,62790,63772,78478,62597,79602,79488
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Adams County, WA",Adams County,county,Adams,WA,WA,53,53001,52626,57581,59331,61984,62142,68998
+"Estimate of Median Household Income for Racine County, WI",Racine County,county,Racine,WI,WI,55,55101,61118,60349,61691,66562,69021,72331
+"Estimate of Median Household Income for Atlantic County, NJ",Atlantic County,county,Atlantic,NJ,NJ,34,34001,59309,60826,62678,61377,65693,76108
+"Estimate of Median Household Income for Barren County, KY",Barren County,county,Barren,KY,KY,21,21009,41477,42439,44859,45298,49245,50658
+"Estimate of Median Household Income for Robertson County, TX",Robertson County,county,Robertson,TX,TX,48,48395,44355,44917,47016,55218,50816,57796
+"Estimate of Median Household Income for Caddo County, OK",Caddo County,county,Caddo,OK,OK,40,40015,41085,48533,45755,48380,44121,51071
+"Estimate of Median Household Income for Cache County, UT",Cache County,county,Cache,UT,UT,49,49005,55036,60315,63180,65391,69670,76631
+"Estimate of Median Household Income for Oldham County, TX",Oldham County,county,Oldham,TX,TX,48,48359,55451,56590,59404,61013,62868,66411
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Robertson County, KY",Robertson County,county,Robertson,KY,KY,21,21201,47999,49990,52299,57176,57232,60250
+"Estimate of Median Household Income for Lorain County, OH",Lorain County,county,Lorain,OH,OH,39,39093,55443,59265,59201,59954,63348,67124
+"Estimate of Median Household Income for Arkansas County, AR",Arkansas County,county,Arkansas,AR,AR,5,5000,43752,43887,52539,51186,50928,52145
+"Estimate of Median Household Income for Arkansas County, AR",Arkansas County,county,Arkansas,AR,AR,5,5001,43752,43887,52539,51186,50928,52145
+"Estimate of Median Household Income for Bowie County, TX",Bowie County,county,Bowie,TX,TX,48,48037,49153,47339,51207,50326,52934,52460
+"Estimate of Median Household Income for Dunn County, WI",Dunn County,county,Dunn,WI,WI,55,55033,58902,57506,61506,61880,64065,71434
+"Estimate of Median Household Income for Siskiyou County, CA",Siskiyou County,county,Siskiyou,CA,CA,6,6093,44013,47560,45954,49441,50069,51593
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Grant County, WA",Grant County,county,Grant,WA,WA,53,53025,51583,48718,53069,48549,57675,58401
+"Estimate of Median Household Income for Tuscola County, MI",Tuscola County,county,Tuscola,MI,MI,26,26157,47357,51113,52342,51940,52365,61978
+"Estimate of Median Household Income for Harrison County, MS",Harrison County,county,Harrison,MS,MS,28,28047,46709,45355,49619,47505,54090,55916
+"Estimate of Median Household Income for Freestone County, TX",Freestone County,county,Freestone,TX,TX,48,48161,47616,49317,52511,54502,48397,56372
+"Estimate of Median Household Income for Crane County, TX",Crane County,county,Crane,TX,TX,48,48103,56356,61987,68626,67547,63555,67889
+"Estimate of Median Household Income for Madison County, GA",Madison County,county,Madison,GA,GA,13,13195,47956,51338,52326,50619,56526,58789
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Lubbock County, TX",Lubbock County,county,Lubbock,TX,TX,48,48303,50464,53028,56851,60307,60249,62579
+"Estimate of Median Household Income for Anderson County, TN",Anderson County,county,Anderson,TN,TN,47,47001,48679,50672,50973,53002,58633,64615
+"Estimate of Median Household Income for Tulare County, CA",Tulare County,county,Tulare,CA,CA,6,6107,46377,48763,56776,62058,57398,64313
+"Estimate of Median Household Income for Summit County, CO",Summit County,county,Summit,CO,CO,8,8117,75420,80078,86570,91079,90297,96984
+"Estimate of Median Household Income for Cowlitz County, WA",Cowlitz County,county,Cowlitz,WA,WA,53,53015,50617,58624,57316,64357,70104,71847
+"Estimate of Median Household Income for Martin County, FL",Martin County,county,Martin,FL,FL,12,12085,58344,61592,70806,72736,67059,80678
+"Estimate of Median Household Income for Hancock County, TN",Hancock County,county,Hancock,TN,TN,47,47067,29689,30691,31938,33109,34055,38024
+"Estimate of Median Household Income for Jefferson County, CO",Jefferson County,county,Jefferson,CO,CO,8,8059,80562,85550,89696,90097,94401,102413
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Carroll County, KY",Carroll County,county,Carroll,KY,KY,21,21041,53612,52827,57985,60600,55709,66649
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Crawford County, AR",Crawford County,county,Crawford,AR,AR,5,5033,49032,50066,48185,59557,58853,60009
+"Estimate of Median Household Income for Washington County, NY",Washington County,county,Washington,NY,NY,36,36115,53609,55913,56897,60973,61633,67013
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Muhlenberg County, KY",Muhlenberg County,county,Muhlenberg,KY,KY,21,21177,36180,40104,40309,39244,40721,42711
+"Estimate of Median Household Income for Henderson County, NC",Henderson County,county,Henderson,NC,NC,37,37089,51314,54012,61651,60550,60384,65252
+"Estimate of Median Household Income for Asotin County, WA",Asotin County,county,Asotin,WA,WA,53,53003,50777,49776,54776,53377,56438,65625
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Hancock County, WV",Hancock County,county,Hancock,WV,WV,54,54029,48909,51344,56087,59684,58124,63423
+"Estimate of Median Household Income for Montgomery County, TN",Montgomery County,county,Montgomery,TN,TN,47,47125,57431,56102,57606,60779,63593,67478
+"Estimate of Median Household Income for Clay County, KY",Clay County,county,Clay,KY,KY,21,21051,26386,28146,30175,26866,30700,34473
+"Estimate of Median Household Income for Berkeley County, WV",Berkeley County,county,Berkeley,WV,WV,54,54003,59071,59619,63012,67163,70893,70829
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Carroll County, KY",Carroll County,county,Carroll,KY,KY,21,21041,43196,42419,45359,44680,43919,51803
+"Estimate of Median Household Income for Otsego County, NY",Otsego County,county,Otsego,NY,NY,36,36077,51561,54321,52414,58417,61664,68962
+"Estimate of Median Household Income for Mitchell County, KS",Mitchell County,county,Mitchell,KS,KS,20,20123,43743,51514,51979,53745,59001,63929
+"Estimate of Median Household Income for Cottle County, TX",Cottle County,county,Cottle,TX,TX,48,48101,36201,38304,40449,44430,44590,45351
+"Estimate of Median Household Income for Kinney County, TX",Kinney County,county,Kinney,TX,TX,48,48271,42650,43192,47076,62557,50567,52609
+"Estimate of Median Household Income for York County, ME",York County,county,York,ME,ME,23,23031,66025,65984,66803,67965,73794,81315
+"Estimate of Median Household Income for Hansford County, TX",Hansford County,county,Hansford,TX,TX,48,48195,55761,57240,58703,61059,57692,69064
+"Estimate of Median Household Income for Pueblo County, CO",Pueblo County,county,Pueblo,CO,CO,8,8101,44060,48308,51075,50885,56311,58314
+"Estimate of Median Household Income for Frederick County, VA",Frederick County,county,Frederick,VA,VA,51,51069,72139,77684,83672,83033,85262,97091
+"Estimate of Median Household Income for Sullivan County, TN",Sullivan County,county,Sullivan,TN,TN,47,47163,45224,46024,51303,48968,49489,54361
+"Estimate of Median Household Income for Isle of Wight County, VA",Isle of Wight County,county,Isle of Wight,VA,VA,51,51093,70842,72993,78749,75481,86286,85227
+"Estimate of Median Household Income for Decatur County, TN",Decatur County,county,Decatur,TN,TN,47,47039,38988,42905,45215,47232,48292,52294
+"Estimate of Median Household Income for Cannon County, TN",Cannon County,county,Cannon,TN,TN,47,47015,51795,51859,52960,50628,53093,63155
+"Estimate of Median Household Income for Sully County, SD",Sully County,county,Sully,SD,SD,46,46119,55421,59457,61791,59157,62078,76192
+"Estimate of Median Household Income for Walla Walla County, WA",Walla Walla County,county,Walla Walla,WA,WA,53,53071,54243,57329,60202,61281,63631,66542
+"Estimate of Median Household Income for McNairy County, TN",McNairy County,county,McNairy,TN,TN,47,47109,39407,39859,45469,44341,45083,49706
+"Estimate of Median Household Income for Middlesex County, CT",Middlesex County,county,Middlesex,CT,CT,9,9007,81533,88709,81721,89970,94735,94735
+"Estimate of Median Household Income for Nueces County, TX",Nueces County,county,Nueces,TX,TX,48,48355,51910,53034,56079,55727,59337,60250
+"Estimate of Median Household Income for Wolfe County, KY",Wolfe County,county,Wolfe,KY,KY,21,21237,29326,30144,32773,33757,34749,37718
+"Estimate of Median Household Income for Payne County, OK",Payne County,county,Payne,OK,OK,40,40119,40237,47748,43025,39681,50651,51236
+"Estimate of Median Household Income for Union County, PA",Union County,county,Union,PA,PA,42,42119,58310,55679,61306,62306,67424,65521
+"Estimate of Median Household Income for Rutherford County, TN",Rutherford County,county,Rutherford,TN,TN,47,47149,68082,64170,69614,73980,77942,77320
+"Estimate of Median Household Income for Dickinson County, MI",Dickinson County,county,Dickinson,MI,MI,26,26043,48291,52348,53751,59408,56033,56349
+"Estimate of Median Household Income for Washington County, KY",Washington County,county,Washington,KY,KY,21,21229,49750,50246,51286,51897,64733,59937
+"Estimate of Median Household Income for McMinn County, TN",McMinn County,county,McMinn,TN,TN,47,47107,39860,46029,49836,50297,50480,60950
+"Estimate of Median Household Income for Montgomery County, TX",Montgomery County,county,Montgomery,TX,TX,48,48339,77149,77598,88833,85348,87831,95241
+"Estimate of Median Household Income for Henry County, OH",Henry County,county,Henry,OH,OH,39,39069,57678,57705,61351,64694,69634,72122
+"Estimate of Median Household Income for Brule County, SD",Brule County,county,Brule,SD,SD,46,46015,50165,49732,65008,56691,58516,60133
+"Estimate of Median Household Income for Giles County, TN",Giles County,county,Giles,TN,TN,47,47055,47838,48024,50847,51332,55468,54684
+"Estimate of Median Household Income for Columbia County, OR",Columbia County,county,Columbia,OR,OR,41,41009,61453,63338,72285,73023,78267,77572
+"Estimate of Median Household Income for Wheeler County, TX",Wheeler County,county,Wheeler,TX,TX,48,48483,45356,48018,58544,49838,49282,55713
+"Estimate of Median Household Income for Hernando County, FL",Hernando County,county,Hernando,FL,FL,12,12053,44710,45884,50705,52108,56443,60582
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Tallahatchie County, MS",Tallahatchie County,county,Tallahatchie,MS,MS,28,28135,34454,35959,35533,40043,39935,43824
+"Estimate of Median Household Income for Choctaw County, MS",Choctaw County,county,Choctaw,MS,MS,28,28019,37561,38479,41146,43449,43567,49225
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Wake County, NC",Wake County,county,Wake,NC,NC,37,37183,75147,78072,82227,85637,88201,94095
+"Estimate of Median Household Income for Washington County, MD",Washington County,county,Washington,MD,MD,24,24043,59828,62556,59785,63237,65433,69271
+"Estimate of Median Household Income for Sunflower County, MS",Sunflower County,county,Sunflower,MS,MS,28,28133,29704,31329,32948,35149,34017,38423
+"Estimate of Median Household Income for Onslow County, NC",Onslow County,county,Onslow,NC,NC,37,37133,49634,50531,50645,52885,55645,62190
+"Estimate of Median Household Income for Mower County, MN",Mower County,county,Mower,MN,MN,27,27099,55772,53387,55276,61565,60831,68718
+"Estimate of Median Household Income for Johnson County, TN",Johnson County,county,Johnson,TN,TN,47,47091,36331,35778,40219,43039,42230,45495
+"Estimate of Median Household Income for Belmont County, OH",Belmont County,county,Belmont,OH,OH,39,39013,52221,48989,50166,50626,50602,55573
+"Estimate of Median Household Income for Tillman County, OK",Tillman County,county,Tillman,OK,OK,40,40141,39581,41186,41251,41610,44231,44333
+"Estimate of Median Household Income for Henderson County, TN",Henderson County,county,Henderson,TN,TN,47,47077,43806,43491,46826,47599,53282,53822
+"Estimate of Median Household Income for New Castle County, DE",New Castle County,county,New Castle,DE,DE,10,10003,66839,69562,76076,75145,74088,85427
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Jasper County, SC",Jasper County,county,Jasper,SC,SC,45,45053,44445,47595,55278,55430,59737,67085
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Watauga County, NC",Watauga County,county,Watauga,NC,NC,37,37189,44071,45731,46006,46883,49198,51780
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Livingston County, KY",Livingston County,county,Livingston,KY,KY,21,21139,39599,43595,45215,46395,42546,49384
+"Estimate of Median Household Income for Nez Perce County, ID",Nez Perce County,county,Nez Perce,ID,ID,16,16069,54729,54476,67645,57839,61951,65558
+"Estimate of Median Household Income for Bullitt County, KY",Bullitt County,county,Bullitt,KY,KY,21,21029,62550,61022,66335,71835,68630,77192
+"Estimate of Median Household Income for Morgan County, TN",Morgan County,county,Morgan,TN,TN,47,47129,40667,40397,43952,48321,48122,59967
+"Estimate of Median Household Income for Aroostook County, ME",Aroostook County,county,Aroostook,ME,ME,23,23003,42600,39450,40675,45523,51770,51562
+"Estimate of Median Household Income for Cassia County, ID",Cassia County,county,Cassia,ID,ID,16,16031,51323,51804,53284,64591,63356,68170
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Adair County, OK",Adair County,county,Adair,OK,OK,40,40001,30532,31551,35912,32157,39595,43625
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Brown County, NE",Brown County,county,Brown,NE,NE,31,31017,41771,41109,43038,44789,46418,48345
+"Estimate of Median Household Income for St. Clair County, MI",St. Clair County,county,St. Clair,MI,MI,26,26147,56671,56557,60208,59138,61466,64894
+"Estimate of Median Household Income for Hoke County, NC",Hoke County,county,Hoke,NC,NC,37,37093,50777,47892,48420,53728,54948,60903
+"Estimate of Median Household Income for Elkhart County, IN",Elkhart County,county,Elkhart,IN,IN,18,18039,58781,59251,55782,66801,62233,63777
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Mariposa County, CA",Mariposa County,county,Mariposa,CA,CA,6,6043,56529,56290,58928,64948,66630,72637
+"Estimate of Median Household Income for Greene County, OH",Greene County,county,Greene,OH,OH,39,39057,68040,68380,69709,71673,79035,82769
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Trinity County, TX",Trinity County,county,Trinity,TX,TX,48,48455,37698,44672,48798,53919,51771,55441
+"Estimate of Median Household Income for Greene County, VA",Greene County,county,Greene,VA,VA,51,51079,65394,67498,73345,70046,76941,82772
+"Estimate of Median Household Income for St. Clair County, IL",St. Clair County,county,St. Clair,IL,IL,17,17163,51937,58222,57726,61863,66422,67185
+"Estimate of Median Household Income for Pend Oreille County, WA",Pend Oreille County,county,Pend Oreille,WA,WA,53,53051,48574,49750,51950,57212,55060,59332
+"Estimate of Median Household Income for Houston County, TN",Houston County,county,Houston,TN,TN,47,47083,42018,44688,40915,47465,48788,60581
+"Estimate of Median Household Income for Beadle County, SD",Beadle County,county,Beadle,SD,SD,46,46005,45878,49712,51844,54033,53648,59508
+"Estimate of Median Household Income for Cocke County, TN",Cocke County,county,Cocke,TN,TN,47,47029,35788,36192,40528,41576,40572,45361
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Mendocino County, CA",Mendocino County,county,Mendocino,CA,CA,6,6045,46225,47865,48788,49087,51658,58519
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Noxubee County, MS",Noxubee County,county,Noxubee,MS,MS,28,28103,26775,28902,29043,30693,30190,32099
+"Estimate of Median Household Income for Sabine County, TX",Sabine County,county,Sabine,TX,TX,48,48403,37770,40641,43778,51046,46233,50564
+"Estimate of Median Household Income for Washington County, VA",Washington County,county,Washington,VA,VA,51,51191,49866,45510,52387,53785,54223,61686
+"Estimate of Median Household Income for Okfuskee County, OK",Okfuskee County,county,Okfuskee,OK,OK,40,40107,37551,37545,39265,45823,36567,43544
+"Estimate of Median Household Income for Weakley County, TN",Weakley County,county,Weakley,TN,TN,47,47183,39424,42351,42506,46979,44799,49815
+"Estimate of Median Household Income for McDowell County, WV",McDowell County,county,McDowell,WV,WV,54,54047,26491,27292,29106,26582,28720,28972
+"Estimate of Median Household Income for Renville County, MN",Renville County,county,Renville,MN,MN,27,27129,54758,59787,59110,56296,63768,66568
+"Estimate of Median Household Income for Dillon County, SC",Dillon County,county,Dillon,SC,SC,45,45033,32229,33159,35483,40930,39613,37752
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Shelby County, KY",Shelby County,county,Shelby,KY,KY,21,21211,70840,71816,78958,81971,78727,87308
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Arlington County, VA",Arlington County,county,Arlington,VA,VA,51,51013,109379,117298,115118,120303,119849,125291
+"Estimate of Median Household Income for Culberson County, TX",Culberson County,county,Culberson,TX,TX,48,48109,37825,42164,44462,47479,48217,52160
+"Estimate of Median Household Income for Bolivar County, MS",Bolivar County,county,Bolivar,MS,MS,28,28011,34216,33116,30309,36034,35599,39984
+"Estimate of Median Household Income for Montgomery County, MS",Montgomery County,county,Montgomery,MS,MS,28,28097,36182,36311,38475,40300,40442,42195
+"Estimate of Median Household Income for Franklin County, TN",Franklin County,county,Franklin,TN,TN,47,47051,49596,50201,54319,49491,57723,61417
+"Estimate of Median Household Income for Scotland County, MO",Scotland County,county,Scotland,MO,MO,29,29199,40900,42053,46871,47740,48665,54961
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Brown County, TX",Brown County,county,Brown,TX,TX,48,48049,44591,51337,59471,53908,53882,57379
+"Estimate of Median Household Income for Dorchester County, SC",Dorchester County,county,Dorchester,SC,SC,45,45035,63269,65468,68051,62928,71548,74730
+"Estimate of Median Household Income for Ohio County, KY",Ohio County,county,Ohio,KY,KY,21,21183,43142,44751,47542,48621,55432,50275
+"Estimate of Median Household Income for Jim Wells County, TX",Jim Wells County,county,Jim Wells,TX,TX,48,48249,40681,41919,44444,48773,43852,48252
+"Estimate of Median Household Income for Adams County, WI",Adams County,county,Adams,WI,WI,55,55001,44767,43000,53156,52060,53592,54682
+"Estimate of Median Household Income for Lee County, GA",Lee County,county,Lee,GA,GA,13,13177,68891,66090,72425,74640,76546,84260
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Franklin County, MS",Franklin County,county,Franklin,MS,MS,28,28037,34196,35301,36718,34873,38124,41619
+"Estimate of Median Household Income for Rock County, WI",Rock County,county,Rock,WI,WI,55,55105,55905,57675,61624,66138,66383,67430
+"Estimate of Median Household Income for Murray County, MN",Murray County,county,Murray,MN,MN,27,27101,60682,59938,61007,63414,72302,68665
+"Estimate of Median Household Income for Marion County, SC",Marion County,county,Marion,SC,SC,45,45067,31438,34365,35138,38498,37534,37244
+"Estimate of Median Household Income for Lincoln County, ID",Lincoln County,county,Lincoln,ID,ID,16,16063,49207,50464,50608,58806,57111,61658
+"Estimate of Median Household Income for Sanborn County, SD",Sanborn County,county,Sanborn,SD,SD,46,46111,48923,54874,56507,51952,61286,63266
+"Estimate of Median Household Income for Pender County, NC",Pender County,county,Pender,NC,NC,37,37141,52187,54900,60405,59812,69555,73663
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Hughes County, SD",Hughes County,county,Hughes,SD,SD,46,46065,68869,76388,74538,74923,80730,88328
+"Estimate of Median Household Income for Medina County, OH",Medina County,county,Medina,OH,OH,39,39103,72926,76475,78540,79504,86880,89108
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Burnett County, WI",Burnett County,county,Burnett,WI,WI,55,55013,50939,58700,54474,63536,60672,62615
+"Estimate of Median Household Income for Lawrence County, IN",Lawrence County,county,Lawrence,IN,IN,18,18093,49112,53187,56261,63904,52557,60141
+"Estimate of Median Household Income for Live Oak County, TX",Live Oak County,county,Live Oak,TX,TX,48,48297,50430,48814,54163,54031,52910,58576
+"Estimate of Median Household Income for Gulf County, FL",Gulf County,county,Gulf,FL,FL,12,12045,44135,45426,53228,51593,51684,55909
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Fall River County, SD",Fall River County,county,Fall River,SD,SD,46,46047,50203,51537,55881,55848,56906,63585
+"Estimate of Median Household Income for Madera County, CA",Madera County,county,Madera,CA,CA,6,6039,50783,53632,61105,68744,60241,71273
+"Estimate of Median Household Income for Valley County, ID",Valley County,county,Valley,ID,ID,16,16085,56532,60285,64041,62600,69425,74166
+"Estimate of Median Household Income for Holt County, MO",Holt County,county,Holt,MO,MO,29,29087,46560,47191,47429,49531,54322,51295
+"Estimate of Median Household Income for San Joaquin County, CA",San Joaquin County,county,San Joaquin,CA,CA,6,6077,60950,63567,68458,70685,79598,84738
+"Estimate of Median Household Income for White County, TN",White County,county,White,TN,TN,47,47185,39642,42603,43583,46475,45239,49411
+"Estimate of Median Household Income for Washington County, ID",Washington County,county,Washington,ID,ID,16,16087,41757,43402,45813,49186,51067,55072
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Panola County, MS",Panola County,county,Panola,MS,MS,28,28107,32407,35829,36288,34934,37123,36482
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Neshoba County, MS",Neshoba County,county,Neshoba,MS,MS,28,28099,35327,32765,37055,46188,39178,47085
+"Estimate of Median Household Income for Warren County, TN",Warren County,county,Warren,TN,TN,47,47177,37692,42475,46144,49532,48444,52520
+"Estimate of Median Household Income for Pike County, IL",Pike County,county,Pike,IL,IL,17,17149,43301,47815,54309,48815,54474,54244
+"Estimate of Median Household Income for Hampden County, MA",Hampden County,county,Hampden,MA,MA,25,25013,51850,52682,59918,61600,61818,64030
+"Estimate of Median Household Income for Butte County, ID",Butte County,county,Butte,ID,ID,16,16023,45226,50050,51742,52081,52221,57085
+"Estimate of Median Household Income for Camas County, ID",Camas County,county,Camas,ID,ID,16,16025,51045,53866,56014,59409,57230,73311
+"Estimate of Median Household Income for Clark County, ID",Clark County,county,Clark,ID,ID,16,16033,42226,48471,48726,52182,52838,53366
+"Estimate of Median Household Income for Lewis County, ID",Lewis County,county,Lewis,ID,ID,16,16061,44674,44911,45342,52255,50128,55128
+"Estimate of Median Household Income for Power County, ID",Power County,county,Power,ID,ID,16,16077,45922,51921,50981,45404,57322,57426
+"Estimate of Median Household Income for Lewis County, TN",Lewis County,county,Lewis,TN,TN,47,47101,37959,40541,45874,48288,50422,53189
+"Estimate of Median Household Income for Perry County, TN",Perry County,county,Perry,TN,TN,47,47135,37135,41960,42939,46366,43998,46448
+"Estimate of Median Household Income for Oneida County, ID",Oneida County,county,Oneida,ID,ID,16,16071,60264,52602,55833,69357,60769,66175
+"Estimate of Median Household Income for Roseau County, MN",Roseau County,county,Roseau,MN,MN,27,27135,58742,60239,62924,61775,69341,71794
+"Estimate of Median Household Income for Benton County, TN",Benton County,county,Benton,TN,TN,47,47005,36034,38940,42322,44759,45165,50635
+"Estimate of Median Household Income for DeKalb County, TN",DeKalb County,county,DeKalb,TN,TN,47,47041,42080,47420,46407,51002,45612,55392
+"Estimate of Median Household Income for Caribou County, ID",Caribou County,county,Caribou,ID,ID,16,16029,58739,61219,61518,63719,66697,70354
+"Estimate of Median Household Income for Gooding County, ID",Gooding County,county,Gooding,ID,ID,16,16047,46218,51302,50205,57728,59174,59838
+"Estimate of Median Household Income for Bledsoe County, TN",Bledsoe County,county,Bledsoe,TN,TN,47,47007,38261,40195,42730,45780,44867,46207
+"Estimate of Median Household Income for Franklin County, ID",Franklin County,county,Franklin,ID,ID,16,16041,55056,58170,55421,65396,59974,71669
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Orange County, FL",Orange County,county,Orange,FL,FL,12,12095,52629,55840,61393,65934,62293,70278
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Osceola County, FL",Osceola County,county,Osceola,FL,FL,12,12097,46191,47398,49435,57001,57257,60122
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Hamilton County, OH",Hamilton County,county,Hamilton,OH,OH,39,39061,53274,55696,58717,61849,62375,64779
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Montague County, TX",Montague County,county,Montague,TX,TX,48,48337,52200,54592,58993,62029,59454,63162
+"Estimate of Median Household Income for Potter County, PA",Potter County,county,Potter,PA,PA,42,42105,41309,44883,49054,51744,51348,53935
+"Estimate of Median Household Income for Mendocino County, CA",Mendocino County,county,Mendocino,CA,CA,6,6045,50453,51386,52309,53176,57516,63621
+"Estimate of Median Household Income for Clackamas County, OR",Clackamas County,county,Clackamas,OR,OR,41,41005,79404,81061,80539,82539,91076,96915
+"Estimate of Median Household Income for Macon County, TN",Macon County,county,Macon,TN,TN,47,47111,41266,42265,44334,47031,49357,56817
+"Estimate of Median Household Income for Jackson County, WV",Jackson County,county,Jackson,WV,WV,54,54035,45199,48731,50808,52123,58606,54735
+"Estimate of Median Household Income for Bladen County, NC",Bladen County,county,Bladen,NC,NC,37,37017,38059,36976,42260,43664,42398,46002
+"Estimate of Median Household Income for Lake County, IN",Lake County,county,Lake,IN,IN,18,18089,54929,55280,57280,59158,61468,66169
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Glasscock County, TX",Glasscock County,county,Glasscock,TX,TX,48,48173,86958,92307,105171,98219,121349,109105
+"Estimate of Median Household Income for Wayne County, MS",Wayne County,county,Wayne,MS,MS,28,28153,36339,37401,39036,36193,38380,43562
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Lincoln County, SD",Lincoln County,county,Lincoln,SD,SD,46,46083,95932,93293,93640,91833,99678,107097
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Adams County, MS",Adams County,county,Adams,MS,MS,28,28001,27784,29699,30662,32920,37533,34712
+"Estimate of Median Household Income for Camden County, NJ",Camden County,county,Camden,NJ,NJ,34,34007,65817,67135,73168,71718,77675,81372
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Meigs County, TN",Meigs County,county,Meigs,TN,TN,47,47121,41795,47458,43131,42163,45864,48032
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Wagoner County, OK",Wagoner County,county,Wagoner,OK,OK,40,40145,55452,59368,61319,60755,67153,69443
+"Estimate of Median Household Income for Lapeer County, MI",Lapeer County,county,Lapeer,MI,MI,26,26087,57621,65209,66415,68959,71306,72737
+"Estimate of Median Household Income for Nelson County, VA",Nelson County,county,Nelson,VA,VA,51,51125,53965,56690,55804,60757,61224,66612
+"Estimate of Median Household Income for Crawford County, MI",Crawford County,county,Crawford,MI,MI,26,26039,47068,46930,49114,49625,50367,57600
+"Estimate of Median Household Income for Cumberland County, TN",Cumberland County,county,Cumberland,TN,TN,47,47035,45118,46527,49142,52529,52000,53388
+"Estimate of Median Household Income for Sangamon County, IL",Sangamon County,county,Sangamon,IL,IL,17,17167,61519,62242,61768,60541,68476,73684
+"Estimate of Median Household Income for Bennington County, VT",Bennington County,county,Bennington,VT,VT,50,50003,52770,52510,56948,65528,65185,69249
+"Estimate of Median Household Income for Murray County, OK",Murray County,county,Murray,OK,OK,40,40099,46602,50031,50965,55318,55997,60307
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Marion County, GA",Marion County,county,Marion,GA,GA,13,13197,35663,34815,36364,40305,34734,41546
+"Estimate of Median Household Income for Hardeman County, TN",Hardeman County,county,Hardeman,TN,TN,47,47069,38426,37834,40989,44937,44314,44454
+"Estimate of Median Household Income for Shawano County, WI",Shawano County,county,Shawano,WI,WI,55,55115,55546,56022,58982,58088,62669,66733
+"Estimate of Median Household Income for Muscogee County, GA",Muscogee County,county,Muscogee,GA,GA,13,13215,42610,46628,47035,44959,52090,53740
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Tuolumne County, CA",Tuolumne County,county,Tuolumne,CA,CA,6,6109,63698,61614,70343,70416,67908,75904
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Haakon County, SD",Haakon County,county,Haakon,SD,SD,46,46055,51863,57663,57000,58553,60127,65489
+"Estimate of Median Household Income for Lee County, AL",Lee County,county,Lee,AL,AL,1,1081,51372,48937,54160,58963,54188,59637
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Bosque County, TX",Bosque County,county,Bosque,TX,TX,48,48035,44582,43785,51234,52394,49621,54083
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for Lincoln County, OK",Lincoln County,county,Lincoln,OK,OK,40,40081,49698,51763,55240,61902,54752,59219
+"90% Confidence Interval Upper Bound of Estimate of Median Household Income for San Bernardino County, CA",San Bernardino County,county,San Bernardino,CA,CA,6,6071,61237,64976,69211,67752,76058,80288
+"Estimate of Median Household Income for Posey County, IN",Posey County,county,Posey,IN,IN,18,18129,65617,68162,68435,63801,74102,75907
+"90% Confidence Interval Lower Bound of Estimate of Median Household Income for Okmulgee County, OK",Okmulgee County,county,Okmulgee,OK,OK,40,40111,40388,39357,38106,45905,41701,42883
+"Estimate of Median Household Income for Taylor County, FL",Taylor County,county,Taylor,FL,FL,12,12123,41557,42307,42987,45527,47083,48482
+"Estimate of Median Household Income for Yuba County, CA",Yuba County,county,Yuba,CA,CA,6,6115,53822,47504,56607,56278,60764,63626
+"Estimate of Median Household Income for Kalamazoo County, MI",Kalamazoo County,county,Kalamazoo,MI,MI,26,26077,56199,55881,56739,63279,62476,69689

@@ -1,0 +1,186 @@
+index,RegionName,RegionType,CountyName,StateName,StateCodeFIPS,county_fips,State,1/1/17,1/1/18,1/1/19,1/1/20,1/1/21,1/1/22
+"Gross Domestic Product: All Industries in Philadelphia County, PA","Philadelphia County, PA",county,Philadelphia,PA,42,42101,PA,108863224,110895144,112625135,107609051,114416856,123064986
+"Gross Domestic Product: All Industries in Orange County, CA","Orange County, CA",county,Orange,CA,6,6059,CA,244438165,256068837,269080278,268778347,294339604,314177082
+"Gross Domestic Product: All Industries in New York County, NY","New York County, NY",county,New York,NY,36,36000,NY,708516749,749124139,781725866,770001330,844809734,885651810
+"Gross Domestic Product: All Industries in New York County, NY","New York County, NY",county,New York,NY,36,36061,NY,708516749,749124139,781725866,770001330,844809734,885651810
+"Gross Domestic Product: All Industries in San Francisco County, CA","San Francisco County, CA",county,San Francisco,CA,6,6075,CA,172992477,189220774,207371562,217050026,251781937,252186339
+"Gross Domestic Product: All Industries in San Diego County, CA","San Diego County, CA",county,San Diego,CA,6,6073,CA,224767520,234685540,245468318,246738140,272825696,295644871
+"Gross Domestic Product: All Industries in Miami-Dade County, FL","Miami-Dade County, FL",county,Dade,FL,12,12025,FL,159539066,170148256,175590230,166830874,193948745,219476269
+"Gross Domestic Product: All Industries in Fairfax, Fairfax City + Falls Church County, VA","Fairfax, Fairfax City + Falls Church County, VA",county,Fairfax,VA,51,51059,VA,114188029,120738631,129015685,130155397,141142785,151888956
+"Gross Domestic Product: All Industries in Los Angeles County, CA","Los Angeles County, CA",county,Los Angeles,CA,6,6037,CA,720841757,755372387,795139880,766347705,841764959,913292121
+"Gross Domestic Product: All Industries in Santa Clara County, CA","Santa Clara County, CA",county,Santa Clara,CA,6,6085,CA,280510581,301321537,320102518,344201399,392899696,400777502
+"Gross Domestic Product: All Industries in Maricopa County, AZ","Maricopa County, AZ",county,Maricopa,AZ,4,4013,AZ,237581202,253570040,271910024,280445536,315696835,350168218
+"Gross Domestic Product: All Industries in Montgomery County, MD","Montgomery County, MD",county,Montgomery,MD,24,24031,MD,93542842,95122803,95157048,94007911,100597916,106777850
+"Gross Domestic Product: All Industries in Loudoun County, VA","Loudoun County, VA",county,Loudoun,VA,51,51107,VA,26813789,28526449,30410096,29892427,33614262,37558714
+"Gross Domestic Product: All Industries in Maui + Kalawao County, HI","Maui + Kalawao County, HI",county,Maui,HI,15,15009,HI,9606468,10424586,10962712,9057393,10477537,11649377
+"Gross Domestic Product: All Industries in Dallas County, TX","Dallas County, TX",county,Dallas,TX,48,48113,TX,248044414,263230069,279796316,276904518,307955884,345175101
+"Gross Domestic Product: All Industries in Alameda County, CA","Alameda County, CA",county,Alameda,CA,6,6001,CA,130430017,137388106,144166936,143611572,156842758,168506397
+"Gross Domestic Product: All Industries in Suffolk County, NY","Suffolk County, NY",county,Suffolk,NY,36,36103,NY,98952851,101321192,105965471,106655037,114800577,125184540
+"Gross Domestic Product: All Industries in Queens County, NY","Queens County, NY",county,Queens,NY,36,36081,NY,98123455,107910333,111530006,102647838,109684258,122288187
+"Gross Domestic Product: All Industries in Bronx County, NY","Bronx County, NY",county,Bronx,NY,36,36005,NY,39476535,43902337,46937853,46254098,48446075,51573982
+"Gross Domestic Product: All Industries in Cook County, IL","Cook County, IL",county,Cook,IL,17,17031,IL,397830564,416928913,431976963,411314700,448825047,485546712
+"Gross Domestic Product: All Industries in Bexar County, TX","Bexar County, TX",county,Bexar,TX,48,48029,TX,100193129,107052245,110734934,111573122,120426419,133284271
+"Gross Domestic Product: All Industries in Clark County, NV","Clark County, NV",county,Clark,NV,32,32003,NV,116332382,125512670,134303884,124127270,141958382,160727901
+"Gross Domestic Product: All Industries in Fort Bend County, TX","Fort Bend County, TX",county,Fort Bend,TX,48,48157,TX,27576129,30225470,32186420,32182239,35655630,40222539
+"Gross Domestic Product: All Industries in Fairfield County, CT","Fairfield County, CT",county,Fairfield,CT,9,9001,CT,91838477,93080042,92852013,89690875,97146258,104368153
+"Gross Domestic Product: All Industries in Riverside County, CA","Riverside County, CA",county,Riverside,CA,6,6065,CA,84070198,89364658,95064950,95796528,106367609,115363850
+"Gross Domestic Product: All Industries in Westchester County, NY","Westchester County, NY",county,Westchester,NY,36,36119,NY,81820011,85359845,90339448,92229975,95402845,103162225
+"Gross Domestic Product: All Industries in Orange County, FL","Orange County, FL",county,Orange,FL,12,12095,FL,95077001,100260013,105964492,101030715,118287548,134442304
+"Gross Domestic Product: All Industries in Hawaii County, HI","Hawaii County, HI",county,Hawaii,HI,15,15000,HI,8324824,8744269,9138076,8017028,9344964,10253256
+"Gross Domestic Product: All Industries in Hawaii County, HI","Hawaii County, HI",county,Hawaii,HI,15,15001,HI,8324824,8744269,9138076,8017028,9344964,10253256
+"Gross Domestic Product: All Industries in Travis County, TX","Travis County, TX",county,Travis,TX,48,48453,TX,109993936,117874107,127165932,131673293,151120078,170905668
+"Gross Domestic Product: All Industries in Kern County, CA","Kern County, CA",county,Kern,CA,6,6029,CA,43812095,45646364,46707513,45582252,52042876,57540870
+"Gross Domestic Product: All Industries in Arlington County, VA","Arlington County, VA",county,Arlington,VA,51,51013,VA,33997126,36068981,37946861,38057893,41011506,42695708
+"Gross Domestic Product: All Industries in Broward County, FL","Broward County, FL",county,Broward,FL,12,12011,FL,104703408,109860494,116227368,116750092,131995767,146735076
+"Gross Domestic Product: All Industries in Greenville County, SC","Greenville County, SC",county,Greenville,SC,45,45045,SC,31059985,32925134,34152811,33818636,36693030,40576056
+"Gross Domestic Product: All Industries in Humboldt County, CA","Humboldt County, CA",county,Humboldt,CA,6,6023,CA,5436863,5590871,5895597,5789281,6295323,6843306
+"Gross Domestic Product: All Industries in New Hanover County, NC","New Hanover County, NC",county,New Hanover,NC,37,37129,NC,12611508,13311129,14257944,14644021,16414151,17948147
+"Gross Domestic Product: All Industries in King County, WA","King County, WA",county,King,WA,53,53033,WA,277284701,303176631,329361151,343391645,381423371,406175696
+"Gross Domestic Product: All Industries in Palm Beach County, FL","Palm Beach County, FL",county,Palm Beach,FL,12,12099,FL,82713425,87313846,91009356,93486682,107678900,117543331
+"Gross Domestic Product: All Industries in San Bernardino County, CA","San Bernardino County, CA",county,San Bernardino,CA,6,6071,CA,87133086,91882188,98718271,100745026,112050041,122548771
+"Gross Domestic Product: All Industries in Sonoma County, CA","Sonoma County, CA",county,Sonoma,CA,6,6097,CA,28853518,30752760,31728327,31609410,34838439,36876932
+"Gross Domestic Product: All Industries in Ventura County, CA","Ventura County, CA",county,Ventura,CA,6,6111,CA,50165884,51701976,53534661,53869917,58453063,62328544
+"Gross Domestic Product: All Industries in Cuyahoga County, OH","Cuyahoga County, OH",county,Cuyahoga,OH,39,39035,OH,95024060,98847611,103845517,102140425,110455391,121434807
+"Gross Domestic Product: All Industries in Palo Alto County, IA","Palo Alto County, IA",county,Palo Alto,IA,19,19147,IA,588624,611318,512035,471249,610279,771463
+"Gross Domestic Product: All Industries in Oakland County, MI","Oakland County, MI",county,Oakland,MI,26,26125,MI,103948141,108587659,111878330,109832929,118620804,127284794
+"Gross Domestic Product: All Industries in Sarasota County, FL","Sarasota County, FL",county,Sarasota,FL,12,12115,FL,20195020,21706283,22871266,23912177,25853331,28466100
+"Gross Domestic Product: All Industries in Rockdale County, GA","Rockdale County, GA",county,Rockdale,GA,13,13247,GA,3816812,4015527,4065695,4302319,4838325,5149077
+"Gross Domestic Product: All Industries in Hamilton County, OH","Hamilton County, OH",county,Hamilton,OH,39,39061,OH,76667322,77687519,83517600,82729777,88502088,95958413
+"Gross Domestic Product: All Industries in Wake County, NC","Wake County, NC",county,Wake,NC,37,37183,NC,76191172,81746411,86594750,88170611,99002843,108152420
+"Gross Domestic Product: All Industries in Bergen County, NJ","Bergen County, NJ",county,Bergen,NJ,34,34003,NJ,76088755,79403910,83094089,81420860,88916666,95627951
+"Gross Domestic Product: All Industries in Kings County, NY","Kings County, NY",county,Kings,NY,36,36047,NY,90473234,101276102,108662736,107584454,114670867,125866867
+"Gross Domestic Product: All Industries in Chester County, PA","Chester County, PA",county,Chester,PA,42,42029,PA,43750772,46810519,47496641,46740560,49941168,52856772
+"Gross Domestic Product: All Industries in Montgomery County, TX","Montgomery County, TX",county,Montgomery,TX,48,48339,TX,26495280,30666817,32109822,32712676,36656797,41993798
+"Gross Domestic Product: All Industries in Brunswick County, NC","Brunswick County, NC",county,Brunswick,NC,37,37019,NC,4901441,5035345,5159578,5692579,6102843,6879271
+"Gross Domestic Product: All Industries in Austin County, TX","Austin County, TX",county,Austin,TX,48,48015,TX,1262188,1367774,1468278,1498114,1788748,2041857
+"Gross Domestic Product: All Industries in Autauga County, AL","Autauga County, AL",county,Autauga,AL,1,1001,AL,1762558,1826642,1804013,1813553,1947622,2364891
+"Gross Domestic Product: All Industries in Harris County, TX","Harris County, TX",county,Harris,TX,48,48201,TX,377601083,403789170,398254718,386806810,437806672,494705884
+"Gross Domestic Product: All Industries in Scotland County, MO","Scotland County, MO",county,Scotland,MO,29,29199,MO,136769,118120,141619,153110,174990,184968
+"Gross Domestic Product: All Industries in Hillsborough County, FL","Hillsborough County, FL",county,Hillsborough,FL,12,12057,FL,87528485,92663728,98389435,101760725,114635085,128480032
+"Gross Domestic Product: All Industries in Shelby County, TN","Shelby County, TN",county,Shelby,TN,47,47157,TN,63595482,65778864,67891435,68040859,75091469,80356234
+"Gross Domestic Product: All Industries in Fulton County, GA","Fulton County, GA",county,Fulton,GA,13,13121,GA,168220054,179142970,193386516,187316255,204318011,218420809
+"Gross Domestic Product: All Industries in Lincoln County, WV","Lincoln County, WV",county,Lincoln,WV,54,54043,WV,289629,257285,261119,242288,278023,291097
+"Gross Domestic Product: All Industries in Tarrant County, TX","Tarrant County, TX",county,Tarrant,TX,48,48439,TX,111059066,119211300,124102600,119961397,134347337,150328442
+"Gross Domestic Product: All Industries in Chatham County, NC","Chatham County, NC",county,Chatham,NC,37,37037,NC,1707985,1774859,1768684,1931446,2069823,2298314
+"Gross Domestic Product: All Industries in Pima County, AZ","Pima County, AZ",county,Pima,AZ,4,4019,AZ,42330595,44785905,47039546,48111914,51827743,55799638
+"Gross Domestic Product: All Industries in Ritchie County, WV","Ritchie County, WV",county,Ritchie,WV,54,54085,WV,574948,633060,626026,537297,719947,903349
+"Gross Domestic Product: All Industries in Denver County, CO","Denver County, CO",county,Denver,CO,8,8031,CO,72913266,78077723,85016717,84294141,97669308,111283962
+"Gross Domestic Product: All Industries in Maverick County, TX","Maverick County, TX",county,Maverick,TX,48,48323,TX,1575758,1717124,1754596,1685139,1932877,2207096
+"Gross Domestic Product: All Industries in Cameron County, TX","Cameron County, TX",county,Cameron,TX,48,48061,TX,10734203,11184169,11716542,11756554,13043190,14259129
+"Gross Domestic Product: All Industries in Goodhue County, MN","Goodhue County, MN",county,Goodhue,MN,27,27049,MN,2884458,2954119,2944210,2999511,3201178,3698183
+"Gross Domestic Product: All Industries in Shasta County, CA","Shasta County, CA",county,Shasta,CA,6,6089,CA,8147396,8077936,8741810,8732869,9320031,9920685
+"Gross Domestic Product: All Industries in Allegheny County, PA","Allegheny County, PA",county,Allegheny,PA,42,42003,PA,97885840,103296979,106992325,103265012,111230907,118857219
+"Gross Domestic Product: All Industries in Sacramento County, CA","Sacramento County, CA",county,Sacramento,CA,6,6067,CA,86961022,92385700,98202674,98951689,108188143,116260531
+"Gross Domestic Product: All Industries in Wayne County, MI","Wayne County, MI",county,Wayne,MI,26,26163,MI,97146266,99842201,101481722,97055844,103789971,112856578
+"Gross Domestic Product: All Industries in Harnett County, NC","Harnett County, NC",county,Harnett,NC,37,37085,NC,2525886,2636154,2752659,2791150,3087945,3307780
+"Gross Domestic Product: All Industries in Jay County, IN","Jay County, IN",county,Jay,IN,18,18075,IN,933155,984760,900170,895048,1068058,1382630
+"Gross Domestic Product: All Industries in Ida County, IA","Ida County, IA",county,Ida,IA,19,19093,IA,518075,544182,557045,627546,710120,781876
+"Gross Domestic Product: All Industries in Sac County, IA","Sac County, IA",county,Sac,IA,19,19161,IA,523685,538179,506630,483746,625737,773548
+"Gross Domestic Product: All Industries in Clay County, AL","Clay County, AL",county,Clay,AL,1,1027,AL,393577,470352,444690,458658,474470,519697
+"Gross Domestic Product: All Industries in Pike County, GA","Pike County, GA",county,Pike,GA,13,13231,GA,315454,326433,357316,353775,385383,429107
+"Gross Domestic Product: All Industries in Owen County, IN","Owen County, IN",county,Owen,IN,18,18119,IN,499575,526027,546987,561284,630837,708500
+"Gross Domestic Product: All Industries in Cass County, IA","Cass County, IA",county,Cass,IA,19,19029,IA,683709,714890,698477,677615,793186,867296
+"Gross Domestic Product: All Industries in Ness County, KS","Ness County, KS",county,Ness,KS,20,20135,KS,159432,177285,178594,180947,214225,207429
+"Gross Domestic Product: All Industries in Lyon County, KY","Lyon County, KY",county,Lyon,KY,21,21143,KY,224702,227041,232714,240438,249951,273978
+"Gross Domestic Product: All Industries in Cass County, MN","Cass County, MN",county,Cass,MN,27,27021,MN,992683,1041815,1049550,1033098,1453727,1284928
+"Gross Domestic Product: All Industries in Pope County, MN","Pope County, MN",county,Pope,MN,27,27121,MN,489158,518189,539478,558030,648622,737546
+"Gross Domestic Product: All Industries in Park County, MT","Park County, MT",county,Park,MT,30,30067,MT,593333,623205,653994,650935,761657,842836
+"Gross Domestic Product: All Industries in Loup County, NE","Loup County, NE",county,Loup,NE,31,31115,NE,38412,39321,34765,31790,32774,37361
+"Gross Domestic Product: All Industries in Henry County, AL","Henry County, AL",county,Henry,AL,1,1067,AL,422115,440075,459027,475397,545100,582158
+"Gross Domestic Product: All Industries in Dooly County, GA","Dooly County, GA",county,Dooly,GA,13,13093,GA,418725,406377,419208,418541,436198,447683
+"Gross Domestic Product: All Industries in Heard County, GA","Heard County, GA",county,Heard,GA,13,13149,GA,1305306,1139627,1302260,1270378,1314224,1803876
+"Gross Domestic Product: All Industries in Worth County, GA","Worth County, GA",county,Worth,GA,13,13321,GA,341000,359504,375964,363763,381520,381585
+"Gross Domestic Product: All Industries in Union County, IN","Union County, IN",county,Union,IN,18,18161,IN,142289,149634,146360,152290,169049,183991
+"Gross Domestic Product: All Industries in Cloud County, KS","Cloud County, KS",county,Cloud,KS,20,20029,KS,346389,375483,402929,423269,474675,477099
+"Gross Domestic Product: All Industries in Smith County, KS","Smith County, KS",county,Smith,KS,20,20183,KS,124593,152418,161300,179955,235416,176391
+"Gross Domestic Product: All Industries in Trego County, KS","Trego County, KS",county,Trego,KS,20,20195,KS,157198,171877,161764,162150,187390,190693
+"Gross Domestic Product: All Industries in Green County, KY","Green County, KY",county,Green,KY,21,21087,KY,159635,158299,172426,189282,198588,198792
+"Gross Domestic Product: All Industries in Lewis County, KY","Lewis County, KY",county,Lewis,KY,21,21135,KY,184484,199465,214987,213456,225523,229477
+"Gross Domestic Product: All Industries in Logan County, KY","Logan County, KY",county,Logan,KY,21,21141,KY,1047706,1054395,1163505,1087103,1257262,1306209
+"Gross Domestic Product: All Industries in Dodge County, MN","Dodge County, MN",county,Dodge,MN,27,27039,MN,716280,748379,788960,761314,898872,1012402
+"Gross Domestic Product: All Industries in Leake County, MS","Leake County, MS",county,Leake,MS,28,28079,MS,552584,575929,576718,523392,679235,777375
+"Gross Domestic Product: All Industries in Yazoo County, MS","Yazoo County, MS",county,Yazoo,MS,28,28163,MS,750480,813958,744368,781121,826579,851094
+"Gross Domestic Product: All Industries in Bates County, MO","Bates County, MO",county,Bates,MO,29,29013,MO,451630,437568,490064,510734,520551,549738
+"Gross Domestic Product: All Industries in Lewis County, MO","Lewis County, MO",county,Lewis,MO,29,29111,MO,214236,240686,242489,244814,277685,287634
+"Gross Domestic Product: All Industries in Hayes County, NE","Hayes County, NE",county,Hayes,NE,31,31085,NE,60757,72260,79242,90212,112397,121684
+"Gross Domestic Product: All Industries in Keith County, NE","Keith County, NE",county,Keith,NE,31,31101,NE,366504,381155,397855,419510,475727,520814
+"Gross Domestic Product: All Industries in Clarke County, AL","Clarke County, AL",county,Clarke,AL,1,1025,AL,814115,870605,868734,902889,1001880,1058878
+"Gross Domestic Product: All Industries in Etowah County, AL","Etowah County, AL",county,Etowah,AL,1,1055,AL,3095515,3191348,3203226,3040945,3241061,3489358
+"Gross Domestic Product: All Industries in Brooks County, GA","Brooks County, GA",county,Brooks,GA,13,13027,GA,332749,332860,433243,512008,562633,617585
+"Gross Domestic Product: All Industries in Echols County, GA","Echols County, GA",county,Echols,GA,13,13101,GA,41172,43230,45451,46026,47967,49471
+"Gross Domestic Product: All Industries in Taylor County, GA","Taylor County, GA",county,Taylor,GA,13,13269,GA,210676,215423,231560,225197,236945,259262
+"Gross Domestic Product: All Industries in Massac County, IL","Massac County, IL",county,Massac,IL,17,17127,IL,614696,653615,657974,627844,760116,744302
+"Gross Domestic Product: All Industries in Benton County, IA","Benton County, IA",county,Benton,IA,19,19011,IA,809714,859889,895804,893804,1037922,1181470
+"Gross Domestic Product: All Industries in Butler County, IA","Butler County, IA",county,Butler,IA,19,19023,IA,426299,426862,436815,429028,608449,718766
+"Gross Domestic Product: All Industries in Greene County, IA","Greene County, IA",county,Greene,IA,19,19073,IA,448337,488865,486621,488158,624881,702450
+"Gross Domestic Product: All Industries in Monona County, IA","Monona County, IA",county,Monona,IA,19,19133,IA,304291,303161,328400,315691,400090,469163
+"Gross Domestic Product: All Industries in Neosho County, KS","Neosho County, KS",county,Neosho,KS,20,20133,KS,546388,564856,626706,602565,670052,686089
+"Gross Domestic Product: All Industries in Aitkin County, MN","Aitkin County, MN",county,Aitkin,MN,27,27001,MN,450099,479256,517411,510321,565301,609048
+"Gross Domestic Product: All Industries in Meeker County, MN","Meeker County, MN",county,Meeker,MN,27,27093,MN,813790,957810,1104703,1040925,1107890,1289449
+"Gross Domestic Product: All Industries in Sibley County, MN","Sibley County, MN",county,Sibley,MN,27,27143,MN,450002,440038,427580,437105,515188,592644
+"Gross Domestic Product: All Industries in Wilkin County, MN","Wilkin County, MN",county,Wilkin,MN,27,27167,MN,276186,275318,309194,307850,388494,442505
+"Gross Domestic Product: All Industries in Grundy County, MO","Grundy County, MO",county,Grundy,MO,29,29079,MO,362697,351400,341801,327785,334590,347126
+"Gross Domestic Product: All Industries in Ripley County, MO","Ripley County, MO",county,Ripley,MO,29,29181,MO,221067,229843,227929,220258,237281,264030
+"Gross Domestic Product: All Industries in Wibaux County, MT","Wibaux County, MT",county,Wibaux,MT,30,30109,MT,45505,41525,45064,40785,47340,52004
+"Gross Domestic Product: All Industries in Hooker County, NE","Hooker County, NE",county,Hooker,NE,31,31091,NE,28318,34449,32056,31540,33712,32712
+"Gross Domestic Product: All Industries in Howard County, NE","Howard County, NE",county,Howard,NE,31,31093,NE,203962,205568,229809,232976,272839,281176
+"Gross Domestic Product: All Industries in Nemaha County, NE","Nemaha County, NE",county,Nemaha,NE,31,31127,NE,688783,574435,637232,620319,829474,874314
+"Gross Domestic Product: All Industries in Phelps County, NE","Phelps County, NE",county,Phelps,NE,31,31137,NE,789547,796780,801432,818332,934651,960143
+"Gross Domestic Product: All Industries in Screven County, GA","Screven County, GA",county,Screven,GA,13,13251,GA,337397,341760,343902,326691,368721,368505
+"Gross Domestic Product: All Industries in Fayette County, IA","Fayette County, IA",county,Fayette,IA,19,19065,IA,768532,791818,757043,750127,841581,969385
+"Gross Domestic Product: All Industries in Fremont County, IA","Fremont County, IA",county,Fremont,IA,19,19071,IA,274821,270113,338580,315543,411032,441058
+"Gross Domestic Product: All Industries in Kingman County, KS","Kingman County, KS",county,Kingman,KS,20,20095,KS,276804,294523,289946,368305,377833,368068
+"Gross Domestic Product: All Industries in Rawlins County, KS","Rawlins County, KS",county,Rawlins,KS,20,20153,KS,109819,105759,110413,146337,198407,262587
+"Gross Domestic Product: All Industries in Sherman County, KS","Sherman County, KS",county,Sherman,KS,20,20181,KS,276863,292555,284812,313222,378894,427826
+"Gross Domestic Product: All Industries in Wallace County, KS","Wallace County, KS",county,Wallace,KS,20,20199,KS,75963,89893,92558,99841,117575,123032
+"Gross Domestic Product: All Industries in Wichita County, KS","Wichita County, KS",county,Wichita,KS,20,20203,KS,279819,244130,203664,189619,236910,297449
+"Gross Domestic Product: All Industries in Hickman County, KY","Hickman County, KY",county,Hickman,KY,21,21105,KY,174979,178083,167925,136743,200655,270647
+"Gross Domestic Product: All Industries in Lincoln County, KY","Lincoln County, KY",county,Lincoln,KY,21,21137,KY,413792,419592,438702,441456,467681,498636
+"Gross Domestic Product: All Industries in Menifee County, KY","Menifee County, KY",county,Menifee,KY,21,21165,KY,81975,87419,94614,97320,101840,102942
+"Gross Domestic Product: All Industries in Russell County, KY","Russell County, KY",county,Russell,KY,21,21207,KY,551600,598939,644413,659117,699070,838590
+"Gross Domestic Product: All Industries in Simpson County, KY","Simpson County, KY",county,Simpson,KY,21,21213,KY,845373,925472,1013237,936894,1060158,1139266
+"Gross Domestic Product: All Industries in Newaygo County, MI","Newaygo County, MI",county,Newaygo,MI,26,26123,MI,1371772,1412115,1446073,1434575,1506578,1631718
+"Gross Domestic Product: All Industries in Douglas County, MN","Douglas County, MN",county,Douglas,MN,27,27041,MN,1902245,1979134,2061971,2098433,2310435,2533065
+"Gross Domestic Product: All Industries in Jackson County, MN","Jackson County, MN",county,Jackson,MN,27,27063,MN,639326,657864,685330,647808,704898,823639
+"Gross Domestic Product: All Industries in Kanabec County, MN","Kanabec County, MN",county,Kanabec,MN,27,27065,MN,402378,422298,452706,451282,486229,505544
+"Gross Domestic Product: All Industries in Lincoln County, MN","Lincoln County, MN",county,Lincoln,MN,27,27081,MN,263024,270507,325574,339927,436828,580214
+"Gross Domestic Product: All Industries in Morrill County, NE","Morrill County, NE",county,Morrill,NE,31,31123,NE,645184,632270,527492,548098,370685,426026
+"Gross Domestic Product: All Industries in Perkins County, NE","Perkins County, NE",county,Perkins,NE,31,31135,NE,249841,254602,310004,317702,399020,460829
+"Gross Domestic Product: All Industries in Escambia County, AL","Escambia County, AL",county,Escambia,AL,1,1053,AL,1269744,1300103,1299082,1248087,1367612,1479761
+"Gross Domestic Product: All Industries in Bleckley County, GA","Bleckley County, GA",county,Bleckley,GA,13,13023,GA,228158,235248,242351,244790,262497,265862
+"Gross Domestic Product: All Industries in Haralson County, GA","Haralson County, GA",county,Haralson,GA,13,13143,GA,813981,851084,889240,871082,928074,1090910
+"Gross Domestic Product: All Industries in Fountain County, IN","Fountain County, IN",county,Fountain,IN,18,18045,IN,451647,480029,470878,470833,569783,662645
+"Gross Domestic Product: All Industries in Sullivan County, IN","Sullivan County, IN",county,Sullivan,IN,18,18153,IN,916719,922480,954755,846406,1115989,1264153
+"Gross Domestic Product: All Industries in Crawford County, IA","Crawford County, IA",county,Crawford,IA,19,19047,IA,782006,808446,786754,773886,909649,996292
+"Gross Domestic Product: All Industries in Delaware County, IA","Delaware County, IA",county,Delaware,IA,19,19055,IA,993535,964650,902811,912457,986880,1147725
+"Gross Domestic Product: All Industries in Marshall County, IA","Marshall County, IA",county,Marshall,IA,19,19127,IA,1822442,1939623,1952976,1961204,2021087,2173821
+"Gross Domestic Product: All Industries in Cherokee County, KS","Cherokee County, KS",county,Cherokee,KS,20,20021,KS,691377,777659,796584,860170,940715,1111127
+"Gross Domestic Product: All Industries in Hodgeman County, KS","Hodgeman County, KS",county,Hodgeman,KS,20,20083,KS,115810,122875,104260,111195,130921,140718
+"Gross Domestic Product: All Industries in Sheridan County, KS","Sheridan County, KS",county,Sheridan,KS,20,20179,KS,130203,105763,102878,146231,173394,137246
+"Gross Domestic Product: All Industries in Caldwell County, KY","Caldwell County, KY",county,Caldwell,KY,21,21033,KY,385937,407249,404929,413591,469369,494493
+"Gross Domestic Product: All Industries in Marshall County, KY","Marshall County, KY",county,Marshall,KY,21,21157,KY,1488790,1478456,1606894,1717997,1837388,2075299
+"Gross Domestic Product: All Industries in Crawford County, MI","Crawford County, MI",county,Crawford,MI,26,26039,MI,421468,456077,454526,442583,544502,568304
+"Gross Domestic Product: All Industries in Mackinac County, MI","Mackinac County, MI",county,Mackinac,MI,26,26097,MI,436189,449469,461842,428222,535147,600980
+"Gross Domestic Product: All Industries in Chippewa County, MN","Chippewa County, MN",county,Chippewa,MN,27,27023,MN,570349,567747,563243,581488,673104,745526
+"Gross Domestic Product: All Industries in Watonwan County, MN","Watonwan County, MN",county,Watonwan,MN,27,27165,MN,434499,447105,461005,450689,539646,593512
+"Gross Domestic Product: All Industries in Nuckolls County, NE","Nuckolls County, NE",county,Nuckolls,NE,31,31129,NE,251094,248907,260683,248655,332469,330813
+"Gross Domestic Product: All Industries in Jefferson County, IN","Jefferson County, IN",county,Jefferson,IN,18,18077,IN,1487036,1552287,1621249,1567906,1805947,2050521
+"Gross Domestic Product: All Industries in Dickinson County, IA","Dickinson County, IA",county,Dickinson,IA,19,19059,IA,974131,999096,1032335,1031255,1182704,1292650
+"Gross Domestic Product: All Industries in Winnebago County, IA","Winnebago County, IA",county,Winnebago,IA,19,19189,IA,399037,438366,426035,459482,541968,644607
+"Gross Domestic Product: All Industries in Dickinson County, MI","Dickinson County, MI",county,Dickinson,MI,26,26043,MI,1314952,1379556,1405556,1373136,1610347,1671384
+"Gross Domestic Product: All Industries in Missaukee County, MI","Missaukee County, MI",county,Missaukee,MI,26,26113,MI,424914,420621,454224,429085,489737,583923
+"Gross Domestic Product: All Industries in Bollinger County, MO","Bollinger County, MO",county,Bollinger,MO,29,29017,MO,183290,186006,190386,202191,217736,233302
+"Gross Domestic Product: All Industries in Roosevelt County, MT","Roosevelt County, MT",county,Roosevelt,MT,30,30085,MT,455855,470811,444161,419960,469337,534586
+"Gross Domestic Product: All Industries in Keya Paha County, NE","Keya Paha County, NE",county,Keya Paha,NE,31,31103,NE,30586,28005,30272,38354,35549,44334
+"Gross Domestic Product: All Industries in Montgomery County, IA","Montgomery County, IA",county,Montgomery,IA,19,19137,IA,418016,432863,444112,441147,509609,556234
+"Gross Domestic Product: All Industries in Winneshiek County, IA","Winneshiek County, IA",county,Winneshiek,IA,19,19191,IA,957951,1001518,1012555,1047470,1148796,1248875
+"Gross Domestic Product: All Industries in Chautauqua County, KS","Chautauqua County, KS",county,Chautauqua,KS,20,20019,KS,71926,73516,70826,74764,81797,81678
+"Gross Domestic Product: All Industries in Cumberland County, KY","Cumberland County, KY",county,Cumberland,KY,21,21057,KY,144525,154824,167163,177649,179259,194771
+"Gross Domestic Product: All Industries in Charlevoix County, MI","Charlevoix County, MI",county,Charlevoix,MI,26,26029,MI,1160423,1215515,1224276,1170255,1390731,1568959
+"Gross Domestic Product: All Industries in Lauderdale County, MS","Lauderdale County, MS",county,Lauderdale,MS,28,28075,MS,3140073,3283531,3441402,3547744,3855358,4212538
+"Gross Domestic Product: All Industries in Deer Lodge County, MT","Deer Lodge County, MT",county,Deer Lodge,MT,30,30023,MT,268402,269606,289428,293748,317762,362181
+"Gross Domestic Product: All Industries in Red Willow County, NE","Red Willow County, NE",county,Red Willow,NE,31,31145,NE,482725,501692,540054,577959,632745,700153
+"Gross Domestic Product: All Industries in Sweet Grass County, MT","Sweet Grass County, MT",county,Sweet Grass,MT,30,30097,MT,217763,212892,251002,286262,347818,316581
+"Gross Domestic Product: All Industries in Powder River County, MT","Powder River County, MT",county,Powder River,MT,30,30075,MT,95901,101492,96402,109191,192290,239778
+"Gross Domestic Product: All Industries in Ste. Genevieve County, MO","Ste. Genevieve County, MO",county,Ste. Genevieve,MO,29,29186,MO,581963,630803,659043,696604,781728,816264
+"Gross Domestic Product: All Industries in Yellow Medicine County, MN","Yellow Medicine County, MN",county,Yellow Medicine,MN,27,27173,MN,447659,460421,522754,544709,586313,680167
