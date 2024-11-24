@@ -18,5 +18,13 @@ below are unprocessed files under ./data/ after fetch from FRED website:
 8 gdp_by_county - output of process file is modified_gdp_per_county.csv
 9 totallist_by_county.csv - output of process file is modified_totallisting_per_county.csv
 ********************************************************************FRED DATA PROCESS*********************************************************************************************************************************************************************************************************************************************
+********************************************************************Linear regression, ARIMA,ARIMAX modeling**********************************************************************************************************************************************************************************************************************
+Before running codes below, you need to download the dataset from this link :https://drive.google.com/file/d/1sVQymlc-lKv1_Ghf0MYZk0QdRpdRRZim/view?usp=drive_link
+Launch linear_regression_ARIMA_ARIMAX.ipynb and run each cells to create linear regression, ARIMA, ARIMAX based models on Home Prices for each county and also plots for San Francisco county as an example of home price prediction. Then it calculates the RMSE for each algorithm for all the counties and take average of them to represent the average RMSE for 3 algorithms to compare their pros and cons.
+
+
+
+
+********************************************************************Linear regression, ARIMA,ARIMAX modeling**********************************************************************************************************************************************************************************************************************
 
 
