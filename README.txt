@@ -39,7 +39,7 @@ https://public.tableau.com/app/profile/arman.ghoreshi6341/viz/RemoteWorkHousingP
 |                INSTALLATION                 |
 ------------------------------------------------
 
-
+For modeling (Modeling-v4.ipynb), the notebook integrates and processes data from multiple sources located in the /CODE/input_data folder. Ensure the notebook is launched and run from the same directory to access the required data files seamlessly. If certain packages aren't installed in your local machine, run `pip install` to install the packages.
 
 ------------------------------------------------
 |                  EXECUTION                  |
