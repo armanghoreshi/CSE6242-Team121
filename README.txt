@@ -17,19 +17,23 @@ Please find the description of each of the Jupyter Notebooks here:
 
 1. County Labeling And Adjacency.ipynb
 This notebook uses population and housing density to determine a metro county per state. Then it uses county adjacency data
-to find which counties are neighbours to the metro county up to 5 levels.
+to find which counties are neighbours to the metro county up to 5 levels using a DFS algorithm treating counties as nodes and
+adjacency as edges.
 
-2. Modeling-v4.ipynb
-This notebook integrates and processes data from multiple sources, performing transformations and cleaning to prepare the final dataset for regression modeling. 
-It includes the construction of regression models, evaluation of their performance, and detailed analysis of the results.
+2. clean_home_price.ipynb
+This notebook performs data cleanup and transformation on the Zillow hous price index dataset to make it ready for blending
+it with other datasources.
 
-3.
+3. Modeling-v4.ipynb
+This notebook integrates and processes data from multiple sources (zillow.com, census.gov, fred.stlouisfed.org), performing
+transformations and cleaning to prepare the final dataset for regression modeling and time series analysis. 
+It includes the construction of regression models, evaluation of their performance using MSE, and detailed analysis of the results.
+After finding the best model, we use that to predict the December 2024 real estate prices per county.
 
 4.
 
 5.
 
-6.
 
 The final tableau dashboard is published in Tableau Public:
 https://public.tableau.com/app/profile/arman.ghoreshi6341/viz/RemoteWorkHousingPriceAnalysis/RemoteWorkHousePriceAnalysis
