@@ -19,7 +19,9 @@ Please find the description of each of the Jupyter Notebooks here:
 This notebook uses population and housing density to determine a metro county per state. Then it uses county adjacency data
 to find which counties are neighbours to the metro county up to 5 levels.
 
-2.
+2. Modeling-v4.ipynb
+This notebook integrates and processes data from multiple sources, performing transformations and cleaning to prepare the final dataset for regression modeling. 
+It includes the construction of regression models, evaluation of their performance, and detailed analysis of the results.
 
 3.
 
