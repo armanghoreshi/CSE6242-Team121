@@ -58,14 +58,15 @@ pip install -r requirements.txt
 
 1. Run "clean_home_price.ipynb" and "County Labeling And Adjacency.ipynb"
 2. Run "data_fetch_preprocess_Fred.ipynb"
-* this step might take a long time because of FRED API rate limits
+    * this step might take a long time because of FRED API rate limits
 3. Run "Modeling-v4.ipynb" and "linear_regression_ARIMA_ARIMAX.ipynb"
-4. Open the tableau file "Tableau/Remote Work & Housing Price Analysis.twb"
-5. Go to the data tab from the bottom left
-6. Click "Refresh" in the top right
-7. Click on any of the sheets in the bottom nav bar
-8. Use the dashboard offline or publish it to Tableau Public
-* The notebook to process census data "census_data_process.ipyb" needs to be operated in Vertex AI in GCP. 
-For your convenience, the output csv file has been uploaded in the folder so that you can run the model straight. 
-If you want to run the script, update your GPC credential and download census dataset from the bucket stated in the notebook. 
-You might need to request a permission. At the end of the notebook, it will save joined dataset into csv file.
+4. Run "census_data_process.ipyb"
+    * The notebook to process census data "census_data_process.ipyb" needs to be operated in Vertex AI in GCP. 
+    For your convenience, the output csv file has been uploaded in the folder so that you can run the model straight. 
+    If you want to run the script, update your GPC credential and download census dataset from the bucket stated in the notebook. 
+    You might need to request a permission. At the end of the notebook, it will save joined dataset into csv file.
+5. Open the tableau file "Tableau/Remote Work & Housing Price Analysis.twb"
+6. Go to the data tab from the bottom left
+7. Click "Refresh" in the top right
+8. Click on any of the sheets in the bottom nav bar
+9. Use the dashboard offline or publish it to Tableau Public
