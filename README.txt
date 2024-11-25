@@ -55,6 +55,7 @@ pip install -r requirements.txt
 
 1. Run "clean_home_price.ipynb" and "County Labeling And Adjacency.ipynb"
 2. Run "data_fetch_preprocess_Fred.ipynb"
+* this step might take a long time because of FRED API rate limits
 3. Run "Modeling-v4.ipynb" and "linear_regression_ARIMA_ARIMAX.ipynb"
 4. Open the tableau file "Tableau/Remote Work & Housing Price Analysis.twb"
 5. Go to the data tab from the bottom left
