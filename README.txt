@@ -36,6 +36,9 @@ After finding the best model, we use that to predict the December 2024 real esta
 5. linear_regression_ARIMA_ARIMAX.ipynb
 This notebook uses the same data inputs as #4 but uses ARIMA and ARIMAX for timeseries analysis.
 
+6. census_data_process.ipyb
+The script to process census raw data into one dataset 
+
 
 The final tableau dashboard is published in Tableau Public:
 https://public.tableau.com/app/profile/arman.ghoreshi6341/viz/RemoteWorkHousingPriceAnalysis/RemoteWorkHousePriceAnalysis
@@ -62,3 +65,7 @@ pip install -r requirements.txt
 6. Click "Refresh" in the top right
 7. Click on any of the sheets in the bottom nav bar
 8. Use the dashboard offline or publish it to Tableau Public
+* The notebook to process census data "census_data_process.ipyb" needs to be operated in Vertex AI in GCP. 
+For your convenience, the output csv file has been uploaded in the folder so that you can run the model straight. 
+If you want to run the script, update your GPC credential and download census dataset from the bucket stated in the notebook. 
+You might need to request a permission. At the end of the notebook, it will save joined dataset into csv file.
